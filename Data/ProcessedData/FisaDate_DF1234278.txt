@@ -1,0 +1,837 @@
+Fisa de date
+Tip anunt: Anunt de participare
+Tip Legislatie: Legea nr. 98/23.05.2016
+ 
+ 
+S-a organizat o consultare de piata: Nu
+ 
+Sectiunea I Autoritatea contractanta
+ 
+I.1) Denumire si adrese
+Spitalul Municipal Salonta 
+Cod de identificare fiscala: 4287947; Adresa: Strada: I.Cantacuzino, nr. 2-4; Localitate: Salonta; Cod Postal: 415500; Tara: Romania; Codul
+NUTS: RO111 Bihor; Adresa de e-mail: spitalul.salonta@yahoo.com; Nr de telefon: +40 259374040; Fax: +40 259373236; Persoana de
+contact: CRACIUN DORIN COTAU; Adresa web a sediului principal al autoritatii/entitatii contractante(URL) https://www.spitalulsalonta.ro;
+Adresa web a profilului cumparatorului: https://www.e-licitatie.ro; 
+ 
+I.2) Achizitie comuna
+Contractul implica o achizitie comuna: Nu
+Contractul este atribuit de un organism central de achizitie: Nu
+Rolul organismului central pe achizitie: -
+ 
+I.3) Comunicare
+Documentele de achizitii publice sunt disponibile pentru acces direct, nerestrictionat, complet si gratuit la (Website): https://www.e-
+licitatie.ro
+Numar zile pana la care se pot solicita clarificari inainte de data limita de depunere a ofertelor/candidaturilor 20
+Informatii suplimentare pot fi obtinute de la: 
+Ofertele, candidaturile sau cererile de participare trebuie depuse la: 
+ 
+I.4) Tipul autoritatii contractante
+Autoritatea regională sau locală
+ 
+I.5) Activitate principala
+Sanatate
+ 
+Sectiunea II Obiectul contractului
+II.1 Obiectul achizitiei
+Procedura reprezinta o reluare a unei proceduri sau lot din trecut?
+Nu
+ 
+Formularul utilajelor disponibile pentru contract
+Achizitia se refera la un proiect in care se solicita operatorilor economici sa declare utilajele pe care le vor utiliza in derularea
+contractului (Conform HG NR. 342/2022): Nu
+ 
+II.1.1 Titlu:
+Servicii de proiectare, asistenta tehnica din partea proiectantului pe parcursul desfasurarii lucrarilor si executia lucrarilor pentru
+obiectivul de investitii „CREȘTEREA CALITĂȚII SERVICIILOR MEDICALE LOCALE PRIN DEZVOLTAREA INFRASTRUCTURII SPITALULUI
+MUNICIPAL SALONTA”
+Numar de referinta atribuit dosarului de autoritatea contractanta: 4287947-2024-3
+ 
+II.1.2 Cod CPV Principal:
+45215140-0 Lucrari de constructii de unitati spitalicesti (Rev.2)
+ 
+II.1.3 Tip de contract:
+Lucrari
+Proiectare si executare
+ 
+Sistemul Electronic de Achizitii Publice
+Sistemul Electronic de Achizitii Publice, 17.12.2024 18:24 Pagina 1
+
+II.1.4 Descrierea succinta a contractului sau a achizitiei/achizitiilor
+              CONTRACT SUB INCIDENȚA UNEI CLAUZE SUSPENSIVE
+Intrarea în vigoare a Contractului de Lucrări este sub incidența clauzei suspensive, în sensul că semnarea contractului este
+condiționată de obținerea aprobării Autorității de Management a Programului național de investiții în infrastructura unităților
+spitalicești, a Proiectului ”CREȘTEREA CALITĂȚII SERVICIILOR MEDICALE LOCALE PRIN DEZVOLTAREA INFRASTRUCTURII SPITALULUI
+MUNICIPAL SALONTA”, Proiect din care derivă direct necesitatea realizării lucrărilor care fac obiectul
+prezentului Contract.
+ 
+Proiectare, asistență tehnica și executie  lucrari la obiectivul: “Cresterea calitatii serviciilor medicale locale prin dezvoltarea
+infrastructurii Spitalului Municipal Salonta ,conform specificatiilor Caietului de sarcini si a documentatiei tehnice atasate.
+Numar zile pana la care se pot solicita clarificari inainte de data limita de depunere a ofertelor: 20 zile.
+În masura în care solicitarile de clarificari sau informatii suplimentare au fost adresate în termenul prevazut în anuntul de participare,
+autoritatea contractanta va raspunde solicitarilor de clarificari cu 11 zile inainte de termenul limita de depunere a ofertelor.
+ 
+II.1.5) Valoarea totala estimata:
+Valoarea estimata fara TVA : 133314933,79 ; Moneda: RON
+ 
+Alte valori:
+Valoarea garantiei de participare: 1333149,33 RON (1,00%)
+ 
+II.1.6) Impartire in loturi:
+Nu
+ 
+II.2 Descriere
+II.2.2 Coduri CPV secundare
+Coduri CPV secundare:
+33100000-1 Echipamente medicale (Rev.2)
+39100000-3 Mobilier (Rev.2)
+71311100-2 Servicii de asistenta in domeniul lucrarilor publice (Rev.2)
+71322000-1 Servicii de proiectare tehnica pentru constructia de lucrari publice (Rev.2)
+ 
+II.2.3 Locul de executare
+Cod NUTS: RO111
+Locul principal de executare:
+Conform caiet de sarcini
+ 
+II.2.4 Descrierea achizitiei publice
+(natura si cantitatea lucrarilor, produselor sau serviciilor sau o mentiune privind nevoile si cerintele)
+Investiția presupune modernizarea Spitalului Municipal Salonta prin realizarea recompartimentărilor necesare în zona spitalizării
+continue precum și revizuirea circuitelor interioare, realizarea extinderii spațiilor și serviciilor în secțiile de spitalizare de zi și primiri
+urgențe cu corpuri noi de clădiri legat funcțional și separat structural de clădirile existente, modernizarea secțiilor de ATI si Bloc
+operator,reabilitarea circuitelor gazelor, achiziționarea a minim 133 echipamente medicale de ultima generație, dotarea si
+digitalizarea clădriii, conformarea clădrii la schimbări climatice,creșterea spațiilor verzi. Prin prezentul proiect se dorește
+modernizarea Spitalului Municipal Salonta prin realizarea recompartimentărilor necesare în zona spitalizării continue precum și
+revizuirea circuitelor interioare, realizarea extinderii spațiilor și serviciilor în secțiile de spitalizare de zi și primiri urgențe cu corpuri
+noi de clădiri legat funcțional și separat structural de clădirile existente, modernizarea secțiilor de ATI si Bloc operator, achiziționarea
+a minim 133 echipamente medicale de ultima generație dar si achiziționarea de echipamente IT, parte integranta a soluției de
+digitalizare. Toate aceste elemente contribuie la asigurarea stării de bine a pacientului precum si a presonalului. In urma investiției
+se va rezulta o clădire modernă, in concordanță cu cerințele actuale din peunct de vedere tehnic ( este asigurată standardul de Nzeb
+plus, adică măsuri care exced cerințele standardului nZeb precum și se asigură imunizarea impotria schimbării climatice), iar pe tot
+parcursul de realizare a investiției este asigurată reutilizarea deșeurilor rezultate și integrarea in economia circulară.
+ 
+II.2.5 Criterii de atribuire
+Cel mai bun raport calitate – pret
+ 
+ 
+Denumire factor evaluare Descriere Pondere
+Sistemul Electronic de Achizitii Publice
+Sistemul Electronic de Achizitii Publice, 17.12.2024 18:24 Pagina 2
+
+ 
+II.2.7 Durata contractului, concesiunii, a acordului-cadru sau a sistemului dinamic de achizitii
+Durata in luni: 30; Durata in zile : -
+Contractul se reinnoieste : Nu
+II.2.10 Informatii privind variantele
+Vor fi acceptate variante: Nu
+II.2.11 Informatii privind optiunile
+Optiuni: Nu
+II.2.12 Informatii privind cataloagele electronice
+Ofertele trebuie sa fie prezentate sub forma de cataloage electronice sau sa includa un catalog electronic: Nu
+II.2.13 Informatii despre fondurile Uniunii Europene
+Achizitia se refera la un proiect si/sau program finantat din fonduri ale Uniunii Europene: Da
+Identificarea proiectului: ,,Programul national de investitii in infrastructura unitatilor spitalicesti'', cu finantare din fonduri externe
+nerambursabile in cadrul Programului Sanatate si din imprumuturi contractate cu institutiile financiare internationale.
+Tip de finantare : Program / Proiect
+Program/Proiect: PS - Programul Sanatate 2021-2027
+ 
+II.3 Ajustarea pretului contractului
+Contractul va fi ajustat dupa urmatoarea metoda :În vederea ajustării valorii contractului se va utiliza următoarea formulă:
+Va = Vo x [(1-p-a) x ICCn / ICCdata de referinta + (p+a)]
+unde: 
+   - Va reprezintă valoarea ajustată a solicitării de plată, Vo reprezintă valoarea solicitării de plată conform preţurilor prevăzute în
+oferta care a stat la baza încheierii contractului, a reprezintă valoarea procentuală a plăţii în avans determinată ca raport dintre
+valoarea avansului primit şi nerestituit/nejustificat şi preţul contractului, p reprezintă valoarea procentuală a profitului determinată
+ca raport dintre valoarea profitului exprimată valoric şi preţul contractului, ICCn reprezintă indicele de cost în construcţii total
+aferent lunii solicitării de plată, iar ICCdata referinţă reprezintă indicele de cost în construcţii total aferent lunii anterioare datei-limită
+de depunere a ofertei, conform documentaţiei de atribuire sau documentelor aferente realizării achiziţiei directe.
+ 
+Sectiunea III Informatii juridice, economice, financiare si tehnice
+III.1) CONDITII DE PARTICIPARE:
+ 
+III.1.1.a) Situatia personala a candidatului sau ofertantului
+Informatii si formalitati necesare pentru evaluarea respectarii cerintelor mentionate: 
+Criteriile de calificare au ca scop demonstrarea potențialului tehnic, financiar și organizatoric al fiecărui operator economic
+participant la procedură, potențial care trebuie să reflecte posibilitatea concretă a acestuia de a îndeplini contractul și de a rezolva
+eventualele dificultăți legate de îndeplinirea acestuia, în cazul în care oferta sa va fi declarată câștigătoare.
+1.   Ofertantii, tertii sustinatori si subcontractantii nu trebuie sa se regaseasca in situatiile prevazute la art. 164, 165, 167 din Legea
+nr.98/2016.
+Pretul ofertei Componenta financiara 85%
+Punctaj maxim factor: 85
+Algoritm de calcul: Punctajul se acorda astfel: a) Pentru cel mai scazut dintre preturi se acorda punctajul maxim
+alocat; b) Pentru celelalte preturi ofertate punctajul P(n) se calculeaza proportional, astfel: P(n) = (Pret minim
+ofertat / Pret n) x punctaj maxim alocat.
+Experienta detinuta de Sef de
+Proiect
+Componenta tehnica 5%
+Punctaj maxim factor: 5
+Algoritm de calcul: -  Pentru experienta detinuta pe o functie similara in cadrul a 1 proiect/contract similare se
+acorda 1 punct;
+-  Pentru experienta detinuta pe o functie similara in cadrul a 3 proiecte/contracte similare se acorda 3 puncte;
+-  Pentru experienta detinuta pe o functie similara in cadrul a 5 sau mai multe proiecte/contracte similare se
+acorda 5 puncte;
+Experienta detinuta de Inginer
+proiectant instalatii gaze medicale
+Componenta tehnica 10%
+Punctaj maxim factor: 10
+Algoritm de calcul: - Pentru experienta detinuta pe o functie similara in cadrul a 1 proiect/contract similare se
+acorda 1 punct; - Pentru experienta detinuta pe o functie similara in cadrul a 3 proiecte/contracte similare se
+acorda 3 puncte; - Pentru experienta detinuta pe o functie similara in cadrul a 4 sau mai multe
+proiecte/contracte similare se acorda 5 puncte;
+Punctaj maxim total: 100
+Sistemul Electronic de Achizitii Publice
+Sistemul Electronic de Achizitii Publice, 17.12.2024 18:24 Pagina 3
+
+Autoritatea  contractanta  are  obligatia  de  a  accepta  ca  fiind  suficient  si  relevant  pentru  demonstrarea  faptului  ca
+ofertantul/candidatul nu se incadreaza in una dintre situatiile prevazute la art. 164, 165, si 167 din Legea nr.98/2016 orice document
+considerat edificator, din acest punct de vedere, in tara de origine sau in tara in care ofertantul/candidatul este stabilit cum ar fi
+certificate, caziere judiciare sau alte documente echivalente emise de autoritati competente din tara respectiva.
+In cazul in care in tara de origine sau in tara in care este stabilit ofertantul/candidatul nu se emit de catre autoritati competente
+documente cum ar fi certificate, caziere judiciare sau alte documente echivalente sau respectivele documente nu vizeaza toate
+situatiile prevazute la art. 164, 165, si 167 din Legea nr.98/2016, autoritatea contractanta are obligatia de a accepta o declaratie pe
+propria raspundere, o declaratie autentica data in fata unui notar, a unei autoritati administrative sau judiciare sau asociatii
+profesionale care are competente in acest sens.
+Modalitatea prin care poate fi demonstrate indeplinirea cerintei: se va completa DUAE de catre operatorii economici participanti la
+procedura de atribuire cu informatiile aferente situatiei lor.
+Documentele justificative care probeaza indeplinirea celor asumate prin completarea formularului DUAE sunt:
+-Certificate constatatoare privind lipsa datoriilor restante cu privire la plata impozitelor, taxelor sau a contributiilor la bugetul
+general consolidat (buget local, buget de stat etc.) la momentul prezentarii , conform L.227/2015 Codul fiscal.
+- documentele trebuie sa ateste lipsa datoriilor restante la momentul depunerii acestora. Ofertantii straini vor prezenta orice
+documente edificatoare, eliberate de autoritati competente din tara în care acestia sunt rezidenti, prin care sa dovedeasca
+îndeplinirea obligatiilor scadente de plata a impozitelor catre bugetul local, în conformitate cu legislatia din tara de rezidenta.
+Documentele emise in alta limba vor fi insotite de traducerea autorizata in limba romana.
+- Dupa caz, documente prin care se demonstreaza faptul ca operatorul economic poate beneficia de derogarile prevazute la art. 166
+alin. (2), art. 167 alin. (2), art. 171 din Legea 98/2016 privind achizitiile publice
+- Certificat de cazier fiscal al operatorului economic, conform Ordonantei nr. 39/2015;
+- Cazierul judiciar al operatorului economic și al membrilor organului de administrare, de conducere sau de supraveghere al
+respectivului operator economic, sau a celor ce au putere de reprezentare, de decizie sau de control în cadrul acestuia, așa cum
+rezultă din certificatul constatator emis de ONRC / actul constitutiv; 
+Aceste documente specificate in DUAE, trebuie prezentate, doar la solicitarea autoritatii contractante, numai de catre ofertantul
+clasat pe locul I.
+2.   Declaratie privind neîncadrarea în situatiile prevazute la art. 58, 59, 60 din Legea 98/2016
+Lista cu persoanele ce detin functii de decizie in autoritatea contractanta cu privire la organizarea , derularea si finalizarea procedurii
+de atribuire este urmatoarea : 
+Adrian Hategan-manager, Anca Rus-director financiar contabil, Mihaela Stan-director medical, Milka Labai -Sef serviciu RUNOS,
+Craciun Dorin Cotau-sef serviciu APCAT, , Dorina Cotrau -referent de specialitate, Ioana Ancuta Cionca-economist, Popovici Lavinia
+Olivia-medic sectie interne, Pop Traian Dumitru- medic sef unitate nucleara, Mariana Brandusan -functionar, Dorel Ciprian Sipos-
+analist programator ajutor, Calin Musca- consultant.
+Toti operatorii economici (lider, asociat, tert sustinator) participanti la procedura vor completa cerinta corespunzatoare in formularul
+DUAE creat de autoritatea contractanta si atasat procedurii.
+Ofertantii, tertii sustinatori si subcontractantii nu trebuie sa se regaseasca in situatiile prevazute la art. 58, 59, 60 din Legea 98/2016.
+ACEASTA DECLARATIE SE VA PREZENTA ODATA CU DUAE de catre toti operatorii economici.
+Se vor depune, odata cu DUAE, urmatoarele documente: angajamentul ferm al tertului sustinator din care rezulta modul efectiv în
+care se va materializa sustinerea acestuia, a acordului de subcontractare si/sau a acordului de asociere, dupa caz.
+Nedepunerea acestora odata cu DUAE, constituie temei pentru solicitarea de clarificari pentru eventualele inadvertente de forma ale
+informatiilor cuprinse în sectiunile DUAE, atât ale ofertantului/candidatului, cât si ale subcontractantului/tertului sustinator, acest
+lucru fiind necesar pentru a asigura desfasurarea corespunzatoare a procedurii de atribuire.
+In cazul in care anumite documente sunt valabile doar in original, operatorul economic castigator, are obligatia de a depune inainte
+de semnarea contractului aceste documente in forma originala sau legalizata.
+Persoane juridice/fizice straine
+Documente edificatoare care sa dovedeasca o forma de inregistrare ca persoana juridica sau de inregistrare/atestare ori
+apartenenta. Ofertantii straini vor prezenta orice documente edificatoare, eliberate de autoritati competente din tara în care acestia
+sunt rezidenti, prin care sa dovedeasca îndeplinirea obligatiilor restante de plata a impozitelor catre bugetul de stat, în conformitate
+cu legislatia din tara de rezidenta.
+Toate documentele vor fi însotite de traducerea autorizata în limba româna.
+ 
+III.1.1.b) Capacitatea de exercitare a activitatii profesionale
+Informatii si formalitati necesare pentru evaluarea respectarii cerintelor mentionate: 
+Operatorii economici ce depun oferta trebuie sa dovedeasca o forma de inregistrare in conditiile legii din tara de rezidenta, din care
+sa reiasa ca operatorul economic este legal constituit, ca nu se afla in niciuna dintre situatiile de anulare a constituirii precum si
+faptul ca are capacitatea profesionala de a realiza activitatile care fac obiectul contractului.
+Modalitatea prin care poate fi demonstrata indeplinirea cerintei:
+Se va completa DUAE de catre operatorii economici participanti la procedura de atribuire prin bifarea sectiunii de indicatie globala.
+Documente justificative considerate adecvate pentru demonstrarea informatiilor incluse in DUAE (raspuns) referitoare la capacitatea
+de exercitare a activitatii profesionale si pe care Operatorul Economic le poate propune Autoritatii Contractante includ, fara a se
+Sistemul Electronic de Achizitii Publice
+Sistemul Electronic de Achizitii Publice, 17.12.2024 18:24 Pagina 4
+
+limita la:
+- certificate eliberate de registrul profesional sau de registrul comertului sau documente echivalente eliberate de autoritati
+competente din tara in care Operatorul Economic este stabilit;
+- alte dovezi pe care le poate prezenta Operatorul Economic, in conformitate cu legislatia tarii in care este stabilit
+Documentele justificative urmeaza sa fie prezentate, la solicitarea autoritatii contractante, doar de catre ofertantul clasat pe locul I in
+clasamentul intermediar intocmit la finalizarea evaluarii ofertelor, și să fie valabile / reale la momentul prezentării.
+La solicitarea expresa a Autoritatii Contractante si in aplicarea prevederilor art. 196 din Legea 98/2016, transmisa ca urmare a
+finalizarii procesului de evaluare si intocmirea clasamentului ofertelor admisibile pe baza aplicarii criteriului de atribuire, Ofertantul
+(Operator Economic individual sau Asocierea de operatori economici) aflat pe primul loc va demonstra indeplinirea cerintei prin
+prezentarea de documente care sa:
+i. probeze toate afirmatiile incluse in DUAE (raspuns) la rubrica/rubricile solicitate;
+ii. sa demonstreze ca:
+a. Operatorul Economic este legal constituit in tara sa de origine si ca nu se afla in niciuna dintre situatiile de anulare a constituirii,
+b. desfasoara in mod licit pe piata activitatea sa profesionala, respectiv:
+i. exista corespondenta intre obiectul Contractului si activitatea economica inscrisa in documentul de constituire al Operatorului
+Economic sub forma de cod NACE (Clasificarea statistica a activitatilor economice in Comunitatea Europeana sau echivalent) pentru
+Operatorul/Operatorii Economici ofertanti;
+ii. exista corespondenta intre activitatea asociata rolului Operatorului Economic in procedura si activitatea economica inscrisa in
+documentul de constituire al acestuia sub forma de cod NACE (Clasificarea statistica a activitatilor economice in Comunitatea
+Europeana sau echivalent) pentru Subcontractant si/sau tert sustinator
+iii. Corespondenta se determina prin raportarea cel putin la sectiunea din economia nationala, determinata pe principiul
+omogenitatii la nivel de Clasificare a activitatilor din economia nationala, cu luarea in considerare a naturii lucrarilor executate.
+ 
+III.1.2) Capacitatea economica si financiara
+Informatii si/sau nivel(uri) minim(e) necesare pentru evaluarea respectarii cerintelor mentionate: 
+Specificați cifra de afaceri medie anuală
+Modalitatea de indeplinire: 
+Declararea cifrei medie de afaceri totala pe ultimii 3 ani (2021, 2022, 2023), in functie de data infiintarii sau inceperii activitatii
+operatorului economic, conform prevederilor art. 175, alin. (1) si art. 177, alin. (1), lit. c) din Legea nr. 98/2016.
+Cifra medie de afaceri totala pe ultimii 3 ani (2021, 2022, 2023), nu trebuie sa fie mai mica de 110.000.000 lei. Modalitatea de
+indeplinire:
+Initial, operatorul economic (lider, asociat) va completa in formularul DUAE cifra medie de afaceri totala pe ultimii 3 ani (2021, 2022,
+2023),
+Documentele justificative care probeaza indeplinirea celor asumate prin DUAE care vor fi prezentate la solicitarea autoritatii
+contractante, doar de catre ofertantul clasat pe primul loc in clasamentul intocmit dupa aplicarea criteriului de atribuire, constau in:
+- situatiile financiare (bilanturi) sau a extrase din situatiile financiare, rapoarte de audit financiar întocmite de entitati specializate, sau
+balante de verificare asumate de operatorul economic în cazul în care publicarea situatiilor financiare este prevazuta de legislatia
+tarii în care este stabilit operatorul economic sau orice alte documente echivalente.
+ 
+III.1.3.a) Capacitatea tehnica si/sau profesionala
+Informatii si/sau nivel(uri) minim(e) necesare pentru evaluarea respectarii cerintelor mentionate: 
+Pentru contractele de achiziție de lucrări: executarea de lucrări de tipul specificat
+Modalitatea de indeplinire: 
+Informatii si/sau nivel(uri) minim(e) necesare pentru evaluarea respectarii cerintelor mentionate: Pentru contractele de achizitie de
+lucrari: executarea de lucrari de tipul specificat
+Ofertantul trebuie sa faca dovada ca in ultimii 5 ani a executat si dus la bun sfarsit în ultimii 5 ani, la nivelul a maxim 3 contracte,
+lucrari similare cu cele ce fac obiectul contractului  cu o valoare cumulata fără TVA de minim 131000000 lei
+Prin lucrari similare autoritatea contractanta intelege: lucrări civile (reabilitare/ modernizare/construire/extindere/consolidare).
+Dintre lucrarile prezentate, cel putin 1 (un) contract trebuie sa fi avut ca obiect executia de lucrari de constructii civile categoria de
+importanță B, care au cuprins realizarea „unei camere curate.”
+Prin lucrări de construcții civile ce au cuprins realizarea „unei camere curate” se intelege : clinici de recuperare si/sau laboratoare de
+cercetare și analiză si/sau baze sportive de recuperare si/sau spitale si/sau unitati de servicii si prestatii medicale. medicale.
+Ultimii 5 ani se raporteaza la termenul limita de depunere a ofertelor cu aplicarea corespunzatoare a Instructiunii ANAP nr. 2/2017
+(art.13).
+Pentru scopul acestei proceduri, perioada de referinta - Ultimii 5 ani  se calculeaza în sens invers pornind de la data comunicată în
+anunțul de participare (publicat la inițierea procedurii) ca fiind termenul limită de depunere a Ofertei.
+În cazul în care autoritatea contractantă este nevoită, indiferent de motive, să procedeze la decalarea termenului-limită stabilit
+pentru depunerea ofertelor, publicând în acest sens o erată, limita inferioară a perioadei de 5 ani se extinde cu perioada de timp
+aferentă decalării, urmând a fi considerată îndeplinită cerinţa pentru toţi operatorii care au prezentat dovada finalizarii lucrarilor din
+cadrul contractului prezentat pentru demonstrarea experienţei similare în intervalul de timp nou rezultat.
+Sistemul Electronic de Achizitii Publice
+Sistemul Electronic de Achizitii Publice, 17.12.2024 18:24 Pagina 5
+
+Prin sintagma „lucrari executate/duse la bun sfârsit” se întelege, lucrări realizate de Ofertant și recepționate de beneficiarul lucrărilor,
+în limitele acordului/contractului dintre Ofertant si beneficiarul lucrărilor nominalizat de către Ofertant în DUAE, respectiv:
+a) lucrari receptionate pe obiecte, care sunt însotite de proces-verbal de receptie întocmit în conformitate cu prevederile legale si
+tehnice din domeniul din care face parte obiectul contractului; sau,
+b) lucrari receptionate însotite de proces-verbal la terminarea lucrarilor;
+sau,
+c) lucrari receptionate însotite de proces-verbal de receptie finala. Sfarsitul executiei nu presupune expirarea perioadei de garantie.
+Modalitatea de indeplinire:
+In vederea îndeplinirii cerintei, ofertantul/ ofertantul asociat/tertul sustinator  si subcontractant, dupa caz,  va completa DUAE Partea
+IV "Criteriile de selectie" - Sectiunea C "Capacitatea tehnica si profesionala" cu urmatoarele: numarul si data contractului  invocat
+drept experienta similara, obiectul contractului, valoarea (fara TVA) a lucrarilor executate in perioada solicitata (ultimii 5 ani),
+perioada, mai exact intervalul periodic (data de inceput si data de finalizare) in care s-au executat lucrarile, beneficiarul lucrarilor,
+data si numarul documentului de receptie, precum si ponderea si/sau activitatile  pentru care a fost responsabil. (art 12, cap.V,
+Instructiunea ANAP nr.2/2017).
+Ofertantul clasat pe primul loc dupa aplicarea criteriului de atribuire va prezenta, anterior atribuirii contractului, la solicitarea
+Autoritatii Contractante documente prin care sa faca dovada  indeplinirii cerintei  privind experienta similara cum ar fi, dar fara a se
+limita la, enumerarea nefiind cumulativa: copii ale unor parti relevante ale contractelor pe care le-au indeplinit /certificate de
+predare- primire/ recomandari in partea beneficiarilor/ procese verbale de receptie/ procese-verbale de recepție pe
+obiect/certificate de bună execuție/certificate constatatoare, prin care se confirma că în ultimii 5 ani (raportați la data limită de
+depunere a ofertelor) a executat lucrarile similare.
+Ultimii 5 ani se raporteaza la termenul limita de depunere a ofertelor cu aplicarea corespunzatoare a Instructiunii ANAP nr. 2/2017
+(art. 13).
+Pentru scopul acestei proceduri, perioada de referinta - ultimii 5 ani  se calculeaza în sens invers pornind de la data comunicată în
+anunțul de participare (publicat la inițierea procedurii) ca fiind termenul limită de depunere a Ofertei. În cazul în care autoritatea
+contractantă  este nevoită, indiferent de motive, să procedeze la decalarea termenului-limită stabilit pentru depunerea ofertelor,
+publicând în acest sens o erată, limita inferioară a perioadei de 5 ani se extinde cu perioada de timp aferentă decalării, urmând a fi
+considerată îndeplinită cerinţa pentru toţi operatorii care au prezentat dovada finalizării lucrarilor din cadrul contractului prezentat
+pentru demonstarea experienţe similare, în intervalul de timp nou rezultat.
+Documentele justificative vor consta in documente reprezentand certificari de buna executie pentru acele lucrari  pe care ofertantul
+crede ca autoritatea contractanta trebuie sa le ia in considerare pentru evaluarea indeplinirii cerintei privind experienta similara.
+Respectivele certificari vor trebui sa indice:
+-numarul si data contractului invocat drept experienta similara
+-Obiectul lucrarilor  astfel incat sa fie furnizate toate informatiile solicitate si necesare pentru a se verifica indeplinirea cerintei
+privind experienta similara;
+-Beneficiarii, indiferent daca acestia sunt autoritati contractante sau clienti privati;
+-Perioada, mai exact intervalul periodic(data de inceput si data de finalizare) in care s-au executat lucrarile
+-Valoarea lucrarilor executate in perioada solicitata (ultimii 5 ani);
+-Data si numarul documentului de receptie
+-Ponderea  pentru care a fost responsabil
+-Certificari din partea beneficiarului/beneficiarilor care sa precizeze daca au fost executate in conformitate cu normele profesionale
+in vigoare si daca au
+Informatii si/sau nivel(uri) minim(e) necesare pentru evaluarea respectarii cerintelor mentionate: 
+Pentru contractele de achiziție de servicii: executarea de servicii de tipul specificat
+Modalitatea de indeplinire: 
+Informatii si/sau nivel(uri) minim(e) necesare pentru evaluarea respectarii cerintelor mentionate:
+Pentru contractele de achizitie de servicii: executarea de servicii de tipul specificat
+Ofertantul trebuie sa faca dovada ca in ultimii 3 ani a prestat servicii similare cu cele ce fac obiectul contractului, in valoare
+cumulata, fara TVA de minim 25000000 lei,  la nivelul a maxim 2 contracte.
+Prin servicii similare autoritatea contractanta intelege: servicii de proiectare la orice faza (sau echivalent pentru ofertantii straini),
+pentru lucrări civile (reabilitare/ modernizare/construire/extindere/consolidare).
+Dintre serviciile prezentate, cel putin 1 (un) contract trebuie sa fi avut ca obiect proiectarea la orice faza de constructii civile
+categoria de importanță B, (sau echivalent pentru ofertantii straini), care au cuprins realizarea „unei camere curate.”
+Prin proiectare de construcții civile ce au cuprins realizarea „unei camere curate” se intelege : clinici de recuperare si/sau laboratoare
+de cercetare și analiză si/sau baze sportive de recuperare si/sau spitale si/sau unitati de servicii si prestatii medicale.
+Ultimii 3 ani se raporteaza la termenul limita de depunere a ofertelor cu aplicarea corespunzatoare a Instructiunii ANAP nr. 2/2017
+(art. 13).
+Pentru scopul acestei proceduri, perioada de referinta - Ultimii 3 ani  se calculeaza în sens invers pornind de la data comunicată în
+anunțul de participare (publicat la inițierea procedurii) ca fiind termenul limită de depunere a Ofertei.
+În cazul în care autoritatea contractantă  este nevoită, indiferent de motive, să procedeze la decalarea termenului-limită stabilit
+pentru depunerea ofertelor, publicând în acest sens o erată, limita inferioară a perioadei de 3 ani se extinde cu perioada de timp
+aferentă decalării, urmând a fi considerată îndeplinită cerinţa pentru toţi operatorii care au prezentat dovada finalizării serviciilor din
+Sistemul Electronic de Achizitii Publice
+Sistemul Electronic de Achizitii Publice, 17.12.2024 18:24 Pagina 6
+
+cadrul contractului prezentat pentru demonstrarea experienţei similare în intervalul de timp nou rezultat.
+Prin sintagma servicii duse la bun sfarsit se intelege:
+- servicii receptionate partial, cu conditia ca specificul contractului/activitatilor ce reprezinta experienta similara sa permita
+elaborarea unui livrabil care sa poata fi utilizat de beneficiar ca rezultata independent;
+- servicii receptionate la sfarsitul prestarii; sfarsitul prestarii nu presupune expirarea perioadei de garantie.
+Modalitatea de indeplinire:
+In vederea îndeplinirii cerintei, ofertantul/ ofertantul asociat/tertul sustinator/subcontactantul, dupa caz,  va completa DUAE Partea
+IV "Criteriile de selectie" - Sectiunea C "Capacitatea tehnica si profesionala" cu urmatoarele : numarul si data contractului invocat
+drept experienta similara, obiectul contractului, valoarea serviciilor prestate(fara TVA) in perioada solicitata (ultimii 3 ani), perioada,
+mai exact intervalul periodic(data de inceput si data de finalizare) in care s-au prestart serviciile, beneficiarul serviciilor, data si
+numarul  documentului de receptie, precum si ponderea pentru care a fost responsabil.
+Ofertantul clasat pe primul loc dupa aplicarea criteriului de atribuire va prezenta, anterior atribuirii contractului, la solicitarea
+Autoritatii Contractante va prezenta documente, fara a se limita la acestea, enumerarea nefiind cumulativa: copii ale unor parti
+relevante ale contractelor pe care le-au indeplinit//certificate de predare-primire/procese verbale de receptie/ certificari de buna
+executie/recomandari in partea beneficiarilor/certificate constatatoare,  prin care se confirma că în ultimii 3 ani (raportați la data
+limită de depunere a ofertelor), a prestat si dus la bun sfarsit servicii similare.
+Aceste documente vor fi prezentate si de catre ofertantul asociat, in situatia in care resursele acestuia au fost luate in considerare
+pentru îndeplinirea cerintei.
+Documentele justificative vor consta in documente reprezentand certificari de buna executie pentru acele servicii  pe care ofertantul
+crede ca autoritatea contractanta trebuie sa le ia in considerare pentru evaluarea indeplinirii cerintei privind experienta similara.
+Respectivele certificari vor trebui sa indice:
+-numarul si data contractului invocat drept experienta similara,
+-Obiectul serviciilor astfel incat sa fie furnizate toate informatiile solicitate si necesare pentru a se verifica indeplinirea cerintei
+privind experienta similara;
+-Beneficiarii, indiferent daca acestia sunt autoritati contractante sau clienti privati;
+-Perioada, mai exact intervalul periodic(data de inceput si data de finalizare) in care s-au prestart serviciile
+-Valoarea serviciilor prestate(fara TVA)in perioada solicitata(ultimii 3 ani);
+-Data si numarul documentului de receptie, precum si ponderea pentru care a fost responsabil
+-Certificari din partea beneficiarului/beneficiarilor care sa precizeze daca au fost prestate in conformitate cu normele profesionale in
+vigoare si daca au fost duse la bun sfarsit.
+Autoritatea contractanta  are dreptul de a se adresa  inclusive beneficiarului final  al serviciilor  care fac obiectul  contractului
+prezentat drept experienta similara, pentru confirmarea celor prezentate de ofertant.
+Aceste documente vor fi prezentate si de catre ofertantul asociat, in situatia in care resursele acestuia au fost luate in considerare
+pentru îndeplinirea cerintei.
+Informatii si/sau nivel(uri) minim(e) necesare pentru evaluarea respectarii cerintelor mentionate: 
+Proporția de subcontractare
+Modalitatea de indeplinire: 
+Autoritatea contractantă solicită ofertantului să precizeze în ofertă partea/părţile din contract pe care urmează să le subcontracteze.
+Autoritatea contractanta solicita ofertantului sa precizeze in oferta in conformitate cu art 150 alin 2 din HG nr. 395/2016 si ale art
+219  din Legea nr. 98/2016, numele, datele de contact şi reprezentanţii legali pentru:  subcontractanţii săi implicaţi în executarea
+contractului de achiziţie publică,
+Autoritatea contractantă informeaza oferantii ca va publica prin mijloace electronice denumirea şi datele de identificare ale
+ofertantului/ subcontractantului propus/terţului susţinător, în termen de maximum 5 zile de la expirarea termenului-limită de
+depunere a solicitărilor de participare/ofertelor, cu excepţia persoanelor fizice, în cazul cărora se publică doar numele.
+Autoritatea contractantă nu stabileste cerinţe de participare pentru subcontractanţii propuşi de ofertant/candidat în ofertă sau
+solicitarea de participare, dar ia în considerare capacitatea tehnică şi profesională a subcontractanţilor propuşi pentru partea lor de
+implicare în contractul care urmează să fie îndeplinit, dacă documentele prezentate sunt relevante în acest sens.
+Modalitatea de indeplinire:
+Autoritatea contractantă solicită ofertantului să precizeze în ofertă partea/părţile din contract pe care urmează să le
+subcontracteze.Dacă este aplicabil, ofertanții includ informațiile cu privire la subcontractanți în DUAE. În cazul în care ofertantul
+utilizează capacitățile subcontractantului/ subcontractanților pentru a îndeplini criteriile de calificare, se va prezenta câte un formular
+DUAE separat pentru fiecare dintre respectivii subcontractanți, completat și semnat în mod corespunzător de către fiecare dintre
+aceștia.Se vor depune, odata cu DUAE, si oferta ,  pana la data limita a depunerii ofertelor, acordul de subcontractare, după
+caz.Autoritatea contractanta solicita ofertantului sa precizeze in oferta in conformitate cu art 150 alin 2 din HG nr. 395/2016 si ale art
+219 coroborat cu 220 din Legea nr. 98/2016, numele, datele de contact şi reprezentanţii legali pentru:–  subcontractanţii săi implicaţi
+în executarea contractului de achiziţie publică.Autoritatea contractantă informeaza oferantii ca va publica prin mijloace electronice
+denumirea şi datele de identificare ale ofertantului/ subcontractantului propus/terţului susţinător, în termen de maximum 5 zile de
+la expirarea termenului-limită de depunere a solicitărilor de participare/ofertelor, cu excepţia persoanelor fizice, în cazul cărora se
+publică doar numele.Autoritatea contractantă va verifica inexistenţa unei situaţii de excludere prevăzute la art. 164, 165 şi 167 în
+legătură cu subcontractanţii propuşi. În cazul în care este identificată o situaţie de excludere, cu aplicarea în mod corespunzător a
+dispoziţiilor art. 171 din Legea 98/2016, autoritatea contractantă va solicita ofertantului o singură dată să înlocuiască un
+Sistemul Electronic de Achizitii Publice
+Sistemul Electronic de Achizitii Publice, 17.12.2024 18:24 Pagina 7
+
+subcontractant în legătură cu care a rezultat, în urma verificării, că se află în această situaţie.Autoritatea contractantă nu stabileste
+cerinţe de participare pentru subcontractanţii propuşi de ofertant/candidat în ofertă sau solicitarea de participare, dar ia în
+considerare capacitatea tehnică şi profesională a subcontractanţilor propuşi pentru partea lor de implicare în contractul care
+urmează să fie îndeplinit, dacă documentele prezentate sunt relevante în acest sens. Autoritatea contractantă isi rezerva dreptul de a
+solicita ofertantului să transmită informaţii şi documente relevante referitoare la capacitatea tehnică şi profesională a
+subcontractanţilor propuşi, cu privire la partea/părţile din contract pe care aceştia urmează să o/le îndeplinească efectiv. În cazul în
+care din informaţiile şi documentele prezentate nu rezultă că subcontractantul propus are capacitatea tehnică şi profesională
+necesară pentru partea/părţile din contract pe care acesta urmează să o/le îndeplinească efectiv, autoritatea contractantă va
+respinge subcontractantul propus şi va solicita ofertantului/candidatului o singură dată înlocuirea acestuia şi prezentarea unui alt
+subcontractant care să aibă capacitatea tehnică şi profesională necesară pentru partea/părţile din contract pe care acesta urmează
+să o/le îndeplinească efectiv.Avand in vedere prevederile art 218 din Legea 98/2016 subcontractorii îşi vor exprima la data depunerii
+ofertei/momentul introducerii acestora în contractul de achiziţie publică, opţiunea de a fi sau nu plătiţi direct de către autoritatea
+contractantă. In acest sens vor cuprinde in oferta depusa denumirea subcontractanţilor şi datele de contact  ale acestora,
+partea/părţile din contract care urmează a fi îndeplinite de către aceştia, valoarea la care se ridică partea/părţile respective, precum
+şi acordul subcontractanţilor cu privire la aceste aspect (art.150, alin.1 si alin.2,  din HG 395/2016).
+ 
+III.1.3.b) Standarde de asigurare a calitatii si de protectie a mediului
+Informatii si/sau nivel(uri) minim(e) necesare pentru evaluarea respectarii cerintelor mentionate: 
+Certificate emise de organisme independente cu privire la standardele de asigurare a calității
+Modalitatea de indeplinire: 
+Ofertantul va face dovada implementării sistemului de management al calității conform SR EN ISO 9001, sau echivalent prin
+prezentarea unor certificate valabile acordate de organisme independente sau alte probe/dovezi care confirmă asigurarea unui nivel
+corespunzător al calității pentru cazurile în care operatorul economic nu a avut acces la un certificat de calitate astfel cum a fost
+solicitat ori nu a avut posibilitatea de a-l obține în termenul stabilit. Ofertanţii trebuie să fie certificaţi în sistemul de management al
+calităţii SR EN ISO 9001 sau echivalent. Documentele trebuie sa fie emise pentru domeniul in care se incadreaza activitatea
+principala a obiectului achizitiei. Fiecare asociat are obligația de a prezenta certificat SR EN ISO 9001 sau echivalent, care trebuie sa
+fie emis pentru domeniul in care se incadreaza activitatea principala pe care o execută in cadrul contractului.
+Modalitatea de indeplinire:
+Se va completa DUAE in mod corespunzator. Operatorii economici vor prezenta orice document prin care se sustine cerinta privind
+managementul calităţii, de exemplu: un certificat emis de un organism de certificare sau alte documente care probeaza în mod
+concludent îndeplinirea cerintei: spre exemplu, proceduri/manuale de calitate, activitate procedurata, etc. similare cu cele prevazute
+drept conditie pentru obtinerea unei certificari SR EN ISO 9001. Operatorii economici care nu detin astfel de certificate vor prezenta
+dovezi prin care sa ateste conformitatea cu standardul specificat sau daca nu urmeaza aceleasi metode din standard trebuie sa
+dovedeasca ca indeplinesc nivelurile de performanta stabilite de acesta. Documentele doveditoare solicitate pentru demonstrarea
+indeplinirii cerintelor privind standardele de calitate şi de mediu vor fi valabile la momentul prezentarii (atunci cand sunt prezentate
+ca urmare a solicitarii autoritatii contractante ofertantului clasat pe primul loc, la finalizarea evaluarii).
+Informatii si/sau nivel(uri) minim(e) necesare pentru evaluarea respectarii cerintelor mentionate: 
+Certificate emise de organisme independente cu privire la sistemele sau standardele de management de mediu
+Modalitatea de indeplinire: 
+Ofertantul va face dovada implementării sistemului de management al mediului conform SR EN ISO 14001, sau echivalent prin
+prezentarea unor certificate valabile acordate de organisme independente sau alte probe/dovezi care confirmă asigurarea unui nivel
+corespunzător al respectarii standardelor de mediu pentru cazurile în care operatorul economic nu a avut acces la un certificat de
+mediu astfel cum a fost solicitat ori nu a avut posibilitatea de a-l obține în termenul stabilit. Ofertanţii trebuie să fie certificaţi în
+sistemul de management al mediului ISO 14001 sau echivalent. Documentele trebuie sa fie emise pentru domeniul in care se
+incadreaza activitatea principala a obiectului achizitiei iar cerinta privind sistemul de management SR EN ISO 14001 este doar
+pentru partea de executie lucrari. Pentru partea de proiectare  nu se solicita prezentarea certificatului SR EN ISO 14001. Operatorii
+economici care nu detin astfel de certificate vor prezenta dovezi prin care sa ateste conformitatea cu standardul specificat sau daca
+nu urmeaza aceleasi metode din standard trebuie sa dovedeasca ca indeplinesc nivelurile de performanta stabilite de acesta.
+Documentele doveditoare solicitate pentru demonstrarea indeplinirii cerintelor privind standardele de mediu vor fi valabile la
+momentul prezentarii (atunci cand sunt prezentate ca urmare a solicitarii autoritatii contractante ofertantului clasat pe primul loc, la
+finalizarea evaluarii). Fiecare asociat are obligația de a prezenta certificat SR ISO 14001 sau echivalent, care trebuie sa fie emis
+pentru domeniul in care se incadreaza activitatea principala pe care o execută in cadrul contractului.
+Modalitatea de indeplinire:
+Se va completa DUAE in mod corespunzator. Cerinta privind sistemul de management SR EN ISO 14001 este doar pentru partea de
+executie lucrari. Pentru partea de proiectare  nu se solicita prezentarea certificatului SR EN ISO 14001. Ofertanţii trebuie să fie
+certificaţi în sistemul de management al mediului ISO 14001 sau echivalent. Documentele trebuie sa fie emise pentru domeniul in
+care se incadreaza activitatea principala a obiectului achizitiei. Operatorii economici care nu detin astfel de certificate vor prezenta
+dovezi prin care sa ateste conformitatea cu standardul specificat sau daca nu urmeaza aceleasi metode din standard trebuie sa
+dovedeasca ca indeplinesc nivelurile de performanta stabilite de acesta. Documentele doveditoare solicitate pentru demonstrarea
+indeplinirii cerintelor privind standardele de mediu vor fi valabile la momentul prezentarii (atunci cand sunt prezentate ca urmare a
+Sistemul Electronic de Achizitii Publice
+Sistemul Electronic de Achizitii Publice, 17.12.2024 18:24 Pagina 8
+
+solicitarii autoritatii contractante ofertantului clasat pe primul loc, la finalizarea evaluarii).
+ 
+III.1.5) Informatii privind contractele rezervate:
+Nu
+ 
+III.1.6) Depozite valorice si garantii solicitate:
+III.1.6.a) Garantie de participare:
+Garantia de participare (GP) este de 1333149,33 lei. Se constituie conform art.154 din Legea 98/2016. Perioada de valabilitate a GP
+va fi cel putin egala cu perioada minima de valabilitate a ofertei, respectiv 120 de zile calendaristice de la data limita de depunere a
+ofertelor. Pentru GP depusa in alta moneda decat lei, echivalenta se va face la cursul BNR din data publicarii anuntului de participare
+simplificat. Se constituie prin virament bancar sau instrument de garantare emis in conditiile legii de o institutie de credit din
+Romania sau de o societate de asigurari,in conditiile legii. GP trebuie sa fie irevocabila. Instrumentul de garantare trebuie sa prevada
+ca plata GP se va executa neconditionat, respectiv la prima cerere a beneficiarului, pe baza declaratiei acestuia cu privire la culpa
+persoanei  garantate,  si  se  prezinta  autor  contrac  cel  mai  tarziu  la  data  si  ora  limita  de  depunere  a  ofertei.  Contul
+RO69TREZ0835006XXX000945 deschis la Trezoreria Salonta.
+Clarificarea eventualelor neconcordante privind forma, cuantumul si valabilitatea garantiei de participare, se face in maxim 3 zile
+lucratoare de la data limita de depunere a ofertelor, conform art. 132, al 3 din H.G. nr. 395/2016.
+Conditiile de retinere a garantiei de participare:  Garantia de participare se retine conform prevederilor art. 37 din HG 395/2016
+Conditiile de restituire a garantiei de participare:  Garantia de participare se restituie conform prevederilor art.154^1 din Legea
+98/2016
+III.1.6.b) Garantie de buna executie:
+Garantia de buna executie va fi in cuantum de 5% din valoarea contractului de furnizarei, fara TVA.
+Garantia de buna executie se va constitui in conformitate cu art.154 din Legea 98/2016
+Restituirea garantiei de buna executie a contractului se va face în condiţiile art.154^1 din Legea 98/2016.
+ 
+III.1.7) Principalele condiții de finanțare și modalități de plată și/sau trimitere la dispozițiile relevante care
+le reglementează:
+              Conform caiet de sarcini.
+ 
+III.1.8) Forma juridica pe care o va lua grupul de operatori economici caruia i se atribuie contractul:
+              Asociere conform art. 53. din Legea privind achizitiile publice nr 98/2016
+ 
+III.1.9) Legislatia aplicabila:
+a) Legea privind achizitiile nr 98/2016
+b) Legea privind remediile si caile de atac in materie de atribuire a contractelor de achizitie publica, a contractelor sectoriale si a
+contractelor de concesiune de lucrari si concesiune de servicii, precum si pentru organizarea si functionarea Consiliului National de
+Solutionare a Contestatiilor nr 101/2016;
+c) www.anap.gov.ro
+d) HG 395/2016, ptr aprobarea Normelor metodologice de aplicare a prevederilor referitoare la atribuirea contractului de achiziţie
+publică/acordului-cadru din Legea nr. 98/2016 privind achiziţiile publice, actualizata
+ 
+III.1.10) Criterii de selectie a participantilor
+ 
+III.2) CONDITII REFERITOARE LA CONTRACT:
+ 
+III.2.2) Executarea contractului este supusa altor conditii speciale:
+Nu
+ 
+III.2.3) Informatii privind personalul responsabil cu executarea contractului:
+Obligatie de a preciza numele si calificarile profesionale ale angajatilor desemnati pentru executarea contractului: Nu
+Precizati etapa in care este aplicabila cerinta : -
+ 
+Sectiunea IV Procedura
+ 
+IV.1 Descriere
+ 
+IV.1.1 Tipul procedurii si modalitatea de desfasurare:
+Sistemul Electronic de Achizitii Publice
+Sistemul Electronic de Achizitii Publice, 17.12.2024 18:24 Pagina 9
+
+IV.1.1.a) Modalitatea de desfasurare a procedurii de atribuire:
+Online
+IV.1.1.b) Tipul Procedurii
+Licitatie deschisa
+ 
+IV.1.3 Informatii privind un acord-cadru sau un sistem dinamic de achizitii:
+Pot fi depuse oferte pentru: Contract de achizitii publice
+ 
+IV.1.6 Informatii despre licitatia electronica
+Se va organiza o licitatie electronica: Nu
+ 
+IV.1.8 Informatii despre Acordul privind achizitiile publice (AAP)
+Achizitia intra sub incidenta acordului privind contractele de achizitii publice: Nu
+ 
+IV.2 Informatii administrative
+ 
+IV.2.1 Publicare anterioara privind aceasta procedura
+ Nu
+Numarul anuntului de intentie din vechiul sistem: -
+ 
+IV.2.4 Limbile in care pot fi depuse ofertele sau cererile de participare
+ Romana
+Moneda in care se transmite oferta financiara: : RON
+ 
+IV.2.6 Perioada minima pe parcursul careia ofertantul trebuie sa isi mentina oferta
+4 luni (de la termenul limita de primire a ofertelor)
+IV.4 Prezentarea ofertei
+ 
+IV.4.1 Modul de prezentare al propunerii tehnice
+Propunerea tehnica va cuprinde cele mentionate mai jos si trebuie prezentată în următoarea structură:
+a)   Metodologia pentru realizarea lucrarilor (proiectare si executie);
+b)   Planul de management al calității în cadrul Contractului
+c)   Grafic general de realizare a investiției publice (fizic)
+d)   Personalul propus și managementul contractului pentru execuția lucrărilor (proiectare si executie)
+e)   Abordarea pentru organizarea și gestionarea activităților în cadrul Contractului, în cazul unei asocierii (dacă Ofertantul este o
+asociere)
+f)   Abordarea pentru managementul activității subcontractanților în cadrul activităților din Contract (în cazul în care Ofertantul va
+utiliza subcontractanți pentru anumite activități din Contract)
+g)    Prezentarea modului de realizare a comunicării dintre Ofertant și terț/terți susținători în legătură cu  executarea Contractului
+(daca este cazul)
+h)   Măsuri aplicabile de Ofertant/Subcontractant/Tert sustinator pe perioada Contractului pentru asigurarea îndeplinirii obligațiilor
+din domeniul mediului ce derivă din îndeplinirea obiectului Contractului
+i)   Măsuri aplicabile de Ofertant/Subcontractant/Tert sustinator pe perioada Contractului pentru asigurarea îndeplinirii obligațiilor
+din domeniul social și al relațiilor de muncă ce derivă din îndeplinirea obiectului Contractului
+j)   Masuri aplicate de Ofertant pentru supravegherea lucrărilor în perioada de garanție acordată
+k)    Informații în legătură cu echipamentele incluse în lucrare după expirarea perioadei de garanție
+l)   Propunerea tehnica va cuprinde Indicarea, motivata, a informatiilor din propunerea tehnica care sunt confidentiale, clasificate sau
+sunt protejate de un drept de proprietate intelectuala, in baza legislatiei aplicabile. partea din propunerea tehnica considerata
+confidentiala va fi prezentata intr-un document separat continand aceasta mentiune. In cazul in care aceste conditii nu sunt
+incidente Formularul - Declaratie cuprinzand – informatiile considerate confidentiale nu va fi depus, propunerea tehnica fiind astfel
+considerata ca document public in sensul legii 544/2001 privind liberul acces la informatiile de interes public. Ofertantii vor atasa
+dovezi care  conferă caracterul confidential al informatiilor declarate ca fiind confidentiale.
+m)   Se va prezenta Formular - declaratie privind acceptarea clauzelor contractuale. Autoritatea contractanta va aplica prevederile art
+137 alin 3 litera b din HG 395/2016. Astfel, este permis operatorilor economici sa formulize amendamente cu privire la clauzele
+contractuale din propunerea de contract odata cu depunerea ofertei, urmand ca pe parcursul evaluarii ofertelor daca devine
+aplicabil autoritatea contractanta sa aiba in vedere prevederile art. 137 alin 3 litera b din HG 395/2016
+n)   Propunerea tehnica trebuie sa corespunda cerintelor minime prevazute in caietul de sarcini conform art 133 din HG 395/2016. si
+se va corela cu propunerea financiara sub sanctiunea respingerii ofertei ca neconforma in baza art 137 alin 3 litera d din HG
+Sistemul Electronic de Achizitii Publice
+Sistemul Electronic de Achizitii Publice, 17.12.2024 18:24 Pagina 10
+
+395/2006
+o)   Specifcatiile tehnice care indica o anumita origine, sursa, productie, un procedeu special, o marca de fabrica sau de comert, un
+brevet de inventie, o licenta de fabricatie, sunt mentionate doar pentru identificarea cu usurinta a tipului de produs si NU au ca efect
+favorizarea sau eliminarea anumitor operatori economici sau a anumitor produse. Aceste specificatii vor fi considerate ca fiind
+insotite de mentiunea «sau echivalent».
+p)   Ofertantii vor atasa declaratia GDPR regasita in cadrul documentelor “Formulare” , sub sanctiunea respingerii ofertei ca
+neconforma in baza art. 215 alin. 5 din Legea 98/2016.
+q)   Propunerea tehnica va fi paginata si opisata, opisul va fi pagina zero a propunerii.
+r)   In cadrul ofertei se va indica faptul ca la elaborarea acesteia ofertantii au tinut cont de obligatiile relevante din domeniile
+mediului, social si al relatiilor de munca conform prevederilor art 51 alin 2 din Legea 98/2016 privind achizitiile publice. In cazul in
+care ofertantul nu asigura respectarea reglementarilor obligatorii referitoare la conditiile specifice de munca si de protectie a muncii
+oferta va fi respinsa ca inacceptabila in baza art 137 alin 2 litera d din HG 395/2016.
+Se vor complete formularele aferente: Formular - Declaratie Privind Respectarea Reglementãrilor Nationale De Mediu si Formular -
+Declaratie Privind Respectarea Reglementãrilor Din Domeniul Social Si Al Relatiilor De Munca. In cazul unei asocieri, aceasta
+declaratie va fi asumata de totii membri asocierii.
+ Informatii detaliate privind reglementarile în vigoare la nivel national si trimiterile la conditiile de munca si de protectie a muncii,
+securitatea si sanatatea în munca pot fi obtinute de la Inspectia muncii sau de pe site-ul: https://www.inspectiamuncii.ro/ro/86
+Ofertantul întelege ca trebuie: 
+a. sa respecte toate legile în vigoare care interzic utilizarea muncii fortate sau obligatorii, 
+b. sa asigure angajatilor conditii de munca, inclusiv plata salariilor si a beneficiilor, în conformitate cu toate legile în vigoare, 
+c. sa se asigure ca toti angajatii sai îndeplinesc cerintele legale referitoare la vârsta de munca solicitata în tara de angajare. 
+Respectarea acestor cerinte este o conditie obligatorie pentru atribuirea Contractului.   
+Informatii suplimentare privind impozitarea, protectia mediului, sanatatea si siguranta la locul de munca etc., conform prevederilor
+legale în România, care trebuie respectate în timpul pregatirii Ofertei, pot fi obtinute de catre Ofertant de la urmatoarele institutii
+publice:  
+I.   Ministerul Finantelor Publice  Strada Apolodor, nr. 17, Sector 5, Bucuresti, România  Email: publicinfo@mfinante.gv.ro  Tel: 0040
+021 319 00 96 83/0040 021 319 97 59  Fax: 0040 021 319 9735   
+II.   Ministerul Mediului, Apelor si Padurilor  B-dul Libertatii,nr. 12, Sector 5, Bucure?ti, România  Email: srp@mmediu.ro  Tel: 0040
+021  408  9500   Informatii  suplimentare  cu  privire  la  conven?iile  de  mediu  pot  fi  gasite  la  urmatoarea  adresa:
+http://www.mmediu.ro/beta/domenii/relatii-internationale/conventii-de-mediu/  http://www.mmediu.ro/beta/domenii/relatii-
+internationale/tratate-bilaterale/   
+III.   Ministerul Muncii, Familiei, Protectiei Sociale si Persoanele Vârstnice  Dem. I. Dobrescu nr. 2-4, Sector 1, Bucure?ti, România
+Email: relatiicupublicul@mmuncii.ro  Tel: 0040 21 313 62 67/00 40 21 315 85  Informatii suplimentare cu privire la conventiile sociale
+pot fi gasite la urmatoarea adresa: http://www.mmuncii.ro/j33/index.php/ro/legislatie/relatii-internationale/acorduri-bilaterale-in-
+domeniul-circulatiei-fortei- de-munca  3
+s)   Propunerea tehnica se va intocmi in baza si cu luarea in considerare a criteriului de atribuire.
+ 
+IV.4.2 Modul de prezentare al propunerii financiare
+Propunerea financiara va cuprinde cele mentionate mai jos si trebuie prezentată în următoarea structură:
+1.Se va prezenta - Formularul de Oferta – Pretul din formularul de oferta reprezinta pretul ofertat pentru executia contractului
+conform documentatiei de atribuire  si va fi exprimat in lei fara TVA.  Se va prezenta o singura oferta de pret, nu se admit oferte
+alternative.
+2. Ofertantul va prezenta si Anexa  la formularul de ofertă.
+3. Propunerea financiara va contine, pe langa formularul de oferta, si centralizatorul cu lucrarile executate/serviciile prestate de
+asociati, subcontractanti, prezentate distinct pentru fiecare asociat, subcontractant in parte (daca este cazul). 
+4. Se va prezenta de asemenea graficul fizic prezentat in propunerea tehnica completat cu valori financiare (Grafic  fizic si valoric)  
+5. La intocmirea propunerii financiare se vor respecta in mod obligatoriu cerintele si modalitatile solicitate in caietul de sarcini si
+anexele aferente acestora.      
+5. Perioada de valabilitate a ofertei: 4 luni de la data limita stabilita pentru depunerea ofertei . 
+6. Preturile oferite trebuie sa includa toate costurile cu materiale, consumabile, echipamente, cheltuieli, salarizarea plus sarcini,
+cheltuieli generale, profit, impozit pe venit etc. si orice contributii pentru executarea completa si în întregime a lucrarilor solicitate
+prin Documentatia de Atribuire. În completarea Formularului de Propunere Financiara, Ofertantul trebuie sa tina cont de deducerile
+facute în conformitate cu prevederile legale, daca este cazul, precum si de toate celelalte cheltuieli necesare pentru îndeplinirea
+obligatiilor sale precum si a cheltuielilor si a profitului sau.  
+Pentru depunerea propunerii financiare se va respecta legislatia in vigoare la data publicarii anuntului de participare.
+7.Pretul ofertat reprezinta un element esential al propunerii financiare a carui realitate si legalitate va fi verificata de catre comisia de
+evaluare. In acest sens vor fi verificate preturile componente ofertate in considerarea art. 137 alin 3 litera c din HG 395/2016 care
+dispune ca o oferta este neconforma cand “contine preturi care nu sunt rezultatul liberei concurente si care nu pot fi justificate”.     
+8.Ofertantul va prezenta indicarea motivata, a informatiilor din propunerea financiara care sunt confidentiale, clasificate sau sunt
+protejate de un drept de proprietate intelectuala, in baza legislatiei aplicabile. Partea din propunerea financiara considerata
+Sistemul Electronic de Achizitii Publice
+Sistemul Electronic de Achizitii Publice, 17.12.2024 18:24 Pagina 11
+
+confidentiala va fi prezentata intr-un document separat continand aceasta mentiune. In cazul in care aceste conditii nu sunt
+incidente Formularul - Declaratie cuprinzand – informatiile considerate confidentiale  nu va fi depus, propunerea financiara fiind
+astfel considerata ca document public in sensul legii 544/2001 privind liberul acces la informatiile de interes public.   Ofertantii vor
+atasa dovezi care  conferă caracterul confidential al informatiilor declarate ca fiind confidentiale.
+ 
+IV.4.3 Modul de prezentare al ofertei
+Ofertanții trebuie să transmită Oferta și documentele asociate doar în format electronic, conform instrucțiunilor din prezentul
+document, și doar prin încărcarea acestora în SEAP în secțiunile specifice disponibile în sistemul informatic, cel târziu la data și ora
+limită pentru primirea Ofertelor specificate în Anuntul de participare.
+Pentru transmiterea Ofertei în SEAP documentele care compun Oferta și DUAE vor fi semnate cu semnătură electronică extinsă,
+bazată pe un certificat calificat, eliberat de un furnizor de servicii de certificare acreditat în condițiile legii și încărcate în SEAP în
+secțiunile specifice disponibile în sistemul informatic.
+Duae se va depune integrat in SEAP, cu respectarea NOTIFICARII ANAP din data de 03.07.2019 referitoare la utilizarea Documentului
+Unic de Achiziții European (DUAE), astfel cum a fost acesta integrat în Sistemul Electronic de Achiziții Publice (SEAP) - sub
+sanctiunea respingerii ofertei fara solicitarea de clarificari, in baza art 215 alin 4 si 5 din Legea 98/2016
+După înscrierea în procedură Ofertanții pot depune Oferta în SEAP în ecranul de vizualizare al procedurii.
+Documentele care compun Oferta vor fi încărcate în rubricile special dedicate din secțiunea "Oferta mea":
+i.   Documente de calificare, în care se încarcă separat DUAE și documentele însoțitoare
+ii.   Documente de oferta tehnica, în care se încarcă documentele ce compun Propunerea Tehnică
+iii.   Oferta financiara – cuprinde:
+i.   atât o rubrică special dedicată pentru completarea manuală a valorii Ofertei de pret
+ii.   cât și rubrica unde pot fi încărcate documentele financiare, inclusiv Formularul de Ofertă.
+Atât Oferta de preț, cât și documentele financiare ce vor fi încărcate în rubrica Oferta financiara vor fi criptate de Ofertant înainte de
+salvarea în sistem.
+Ofertanții vor avea în vedere faptul că activitatea de criptare a Ofertei de pret și salvarea Ofertei de pret sunt doua acțiuni diferite.
+Criptarea nu înseamnă și salvarea Ofertei de preț.
+Ofertanții vor avea în vedere faptul că valoarea totală a Propunerii Financiare (rubrica Oferta de pret din SEAP) trebuie să fie
+prezentată în Ron/lei , moneda stabilită de Autoritatea Contractantă în Anuntul de participare .
+Autoritatea Contractantă va realiza decriptarea acestor informații și documente numai după finalizarea evaluării tehnice și doar daca
+Ofertantul a primit calificativul "Admis" la toate evaluările anterioare etapei de evaluare financiară.
+Prețurile incluse de Ofertant în Propunerea Financiară vor respecta următoarele cerințe:
+i.   Oferta de preț trebuie să acopere toate lucrarile solicitate în Caietul de sarcini, așa cum sunt descrise în Documentația de
+atribuire.
+ii.   Prețul care urmează a fi completat în Formularul de Ofertă trebuie să fie preluat din Propunerea Financiară și trebuie să fie prețul
+total al Ofertei.
+iii.   Prețul total inclus în Propunerea Financiară trebuie să fie stabilit de către Ofertant luând în considerare toate informațiile incluse
+în Caietul de sarcini.
+Oferta poate fi respinsă ca inacceptabilă dacă:
+i.   Propunerea Financiară este prezentata într-un format diferit de cel specificat în Secțiunea D - Formulare pentru depunerea
+Ofertei a Documentației de atribuire
+ii.   prețul propus nu rezultă în mod clar din Propunerea Financiară
+iii.   prețul depășește valoarea estimată, astfel cum a fost stabilită de Autoritatea Contractantă, iar această valoare nu poate fi
+suplimentată.
+In cazul in care valoarea poate fi suplimentata si se constată că acceptarea unei astfel de oferte nu ar conduce la modificarea
+substanţială în sensul depăşirii procentelor de la art. 221 alin. (1) lit. f) pct. ii) din Lege, oferta va fi acceptata.
+1.   Pentru a se evita apariția unor erori pe parcursul analizării si verificării documentelor prezentate de ofertanți se solicită
+operatorilor economici să procedeze la numerotarea de la prima la ultima pagina a tuturor paginilor din cadrul ofertei, din cadrul
+documentelor de calificare si din cadrul celorlalte documente care însoțesc oferta, astfel încât acestea să poată fi identificate în mod
+facil.
+2.   Documentele eliberate de instituții/organisme oficiale abilitate sau de către terți trebuie să fie datate, semnate si, după caz,
+parafate conform prevederilor legale în vigoare si se vor prezenta scanate in format lizibil, cu mențiunea „conform cu originalul” si
+semnate electronic de către ofertant.
+3.   Nerespectarea instrucțiunilor, neprezentarea informațiilor solicitate completate în mod corespunzător si/sau transmiterea
+documentelor într-o formă improprie care face imposibilă vizualizarea conținutului acestora sunt activități realizate pe riscul
+ofertantului, iar eșecul de a depune o ofertă care să nu îndeplinească cerințele minime si obligatorii de calificare si instrucțiunile de
+prezentare/completare a documentelor indicate prin prezenta documentație poate conduce la respingerea ofertei ca fiind
+inacceptabilă/neconformă/neadecvată, cu aplicarea în mod corespunzător a dispozițiilor legale incidente. Ofertanții trebuie să
+transmită o oferta completă pentru toate activitățile ce fac obiectul acestui contract.
+4.   Ofertanții poartă exclusiv răspunderea pentru examinarea cu atenția cuvenită a documentației de atribuire, inclusiv a oricărei
+clarificări aduse documentației de atribuire în timpul perioadei de pregătire a ofertei prin răspunsurile autorității contractante la
+Sistemul Electronic de Achizitii Publice
+Sistemul Electronic de Achizitii Publice, 17.12.2024 18:24 Pagina 12
+
+solicitările de clarificări, precum si pentru obținerea tuturor informațiilor necesare cu privire la orice fel de cerințe/condiții si obligații
+care pot afecta în vreun fel valoarea, condițiile stabilite, natura/conținutul ofertei si/sau execuția contractului.
+5.   Prin depunerea unei oferte, ofertantul acceptă în prealabil condițiile generale si particulare care guvernează viitorul contract de
+achiziție publică, după cum sunt acestea prezentate în documentația de atribuire, ca fiind singura bază de desfășurare a acestei
+proceduri de atribuire, indiferent de situația ori de condițiile proprii ale ofertantului.
+  Prezumția de legalitate si autenticitate a documentelor prezentate: ofertantul își asumă răspunderea exclusivă pentru legalitatea si
+autenticitatea tuturor documentelor prezentate în original, copie si/sau copie „conformă cu originalul” în vederea participării la
+procedură. În acest scop, analizarea de către comisia de evaluare a documentelor prezentate de ofertanți nu angajează din partea
+acesteia nicio răspundere sau obligație fată de acceptarea respectivelor documente ca fiind autentice sau legale și nu înlătură
+răspunderea exclusivă a ofertantului sub acest aspect. În acest sens, operatorii economici care, fie nu prezintă sau prezintă informații
+parțiale cu privire la propria lor situație privind incidența motivelor de excludere sau îndeplinirea criteriilor de calificare și selecție
+sau care se fac vinovați de declarații false în conținutul informațiilor transmise la solicitarea autorității contractante vor fi respinși, cu
+aplicarea în mod corespunzător a dispozițiilor/consecințelor legale incidente.
+Niciun cost suportat de operatorul economic pentru pregătirea si depunerea ofertei nu va fi rambursat. Toate aceste costuri vor fi
+suportate integral de către ofertanți, indiferent de rezultatul aplicării procedurii de atribuire.
+ 
+Sectiunea VI Informatii suplimentare
+ 
+VI.1 Aceasta achizitie este periodica
+ 
+ Nu
+Programul estimat de publicare a anunturilor viitoare : -
+ 
+VI.2 Informatii privind fluxurile de lucru electronice
+ 
+Se va utiliza sistemul de comenzi electronice: Nu
+Se va accepta facturarea electronica: Da
+Se vor utiliza platile electronice: Nu
+ 
+VI.3 Informatii suplimentare
+ 
+              În cazul în care două sau mai multe oferte sunt clasate pe primul loc, cu punctaje egale, departajarea se va face având în vedere
+punctajul obţinut la factorii de evaluare în ordinea descrescătoare a ponderilor acestora. Mai exact, va fi declarata castigatoare oferta care
+a obtinut cel mai mare punctaj la factorul pret. În situaţia în care egalitatea se menţine, autoritatea contractantă va solicita prin SEAP
+depunerea de noi propuneri financiare, şi oferta câştigătoare va fi desemnată cea cu propunerea financiară cea mai mica.
+Operatorii economici pot fi excluși din procedura de achiziții publice sau pot fi urmăriți în justiție în temeiul legislației naționale în cazuri
+grave de declarații false atunci când au completat DUAE sau, în general, atunci când au furnizat informațiile solicitate pentru verificarea
+absenței motivelor de excludere sau a îndeplinirii criteriilor de selecție ori în cazul în care nu au divulgat aceste informații sau nu au fost în
+măsură să prezinte documentele justificative.
+Prezumția de legalitate si autenticitate a documentelor prezentate: ofertantul își asumă răspunderea exclusivă pentru legalitatea si
+autenticitatea tuturor documentelor prezentate în original, copie si/sau copie „conformă cu originalul” în vederea participării la procedură.
+În acest scop, analizarea de către comisia de evaluare a documentelor prezentate de ofertanți nu angajează din partea acesteia nicio
+răspundere sau obligație fată de acceptarea respectivelor documente ca fiind autentice sau legale și nu înlătură răspunderea exclusivă a
+ofertantului sub acest aspect. În acest sens, operatorii economici care, fie nu prezintă sau prezintă informații parțiale cu privire la propria
+lor situație privind incidența motivelor de excludere sau îndeplinirea criteriilor de calificare și selecție sau care se fac vinovați de declarații
+false în conținutul informațiilor transmise la solicitarea autorității contractante vor fi respinși, cu aplicarea în mod corespunzător a
+dispozițiilor/consecințelor legale incidente.
+Pentru transmiterea solicitărilor de clarificări privind documentația de atribuire, operatorii economici se vor înregistra în SICAP ca operator
+economic conform prevederilor art. 5 alin. (1) din HG 395/2016 și vor transmite solicitările având în vedere termenele de răspuns ale
+autorității contractante prevăzute la art. 161 din Legea nr. 98/2016. Termenul până la care operatorii economici pot transmite solicitările
+de clarificări/informații suplimentare așa cum s-a menționat la secțiunea I.3 - 20 zile înainte de data limită de depunere a ofertelor.
+Autoritatea contractantă va răspunde în mod clar și complet tuturor solicitărilor de clarificări în a 11-a zi înainte de data limită stabilită
+pentru depunerea ofertelor.
+Operatorii economici vor transmite răspunsurile la clarificări și eventualele documente solicitate pe parcursul evaluării ofertelor prin
+intermediul SICAP, în format electronic, semnate cu semnătură electronică.
+Dacă semnătura electronică extinsă nu apartine reprezentantului legal din partea ofertantului, acesta are obligația de a transmite odată cu
+oferta și împuternicirea persoanei care a semnat documentele ofertei cu semnătură electronică extinsă.
+Ofertantul va suporta toate costurile asociate elaborării si prezentării ofertei sale, precum si a documentelor care o însotesc iar Autoritatea
+Contractantă nu va fi responsabilă sau răspunzătoare pentru costurile respective.
+Sistemul Electronic de Achizitii Publice
+Sistemul Electronic de Achizitii Publice, 17.12.2024 18:24 Pagina 13
+
+Orice referire în documentele achiziției care indică o anumită origine, sursă, producție, producător, un procedeu special, un standard, un
+normativ, o marcă de fabrică sau de comerț, un brevet de invenție, o licență de fabricație, sunt mentionate doar cu scopul de a identifica
+cu ușurință tipurile de produs ca și concept și nu au ca efect favorizarea sau eliminarea anumitor operatori economici sau a anumitor
+produse/servicii sau lucrări. Aceste specificații vor fi considerate ca având mențiunea de „sau echivalent”, iar ofertantul are obligația de a
+demonstra echivalența produselor/serviciilor/lucrărilor ofertate cu cele solicitate, dacă este cazul.
+Toate trimiterile la standardele mentionate in Caietul de sarcini se vor interpreta cu mentiunea "sau echivalent".
+Orice referire din cuprinsul prezentei documentații de atribuire (inclusiv a caietului de sarcini), prin care se indică o anumită atestare,
+autorizare, certificare, origine, sursa, producție, un procedeu special, o marcă de fabrică sau de comerț, un brevet de invenție și/sau o
+licență de fabricație, o autorizație/ certificare/ atestare, standard se va citi și interpreta ca fiind însoțită de mențiunea "sau echivalent.
+ 
+VI.4 Proceduri de contestare
+ 
+VI.4.1 Organismul de solutionare a contestatiilor
+Consiliul National de Solutionare a Contestatiilor 
+Adresa: Str. Stavropoleos nr. 6, sector 3; Localitate: Bucuresti; Cod Postal: 030084; Tara: Romania; Codul NUTS: RO321 Bucuresti;
+Adresa de e-mail: office@cnsc.ro; Nr de telefon: +40 213104641; Adresa web a sediului principal al autoritatii/entitatii
+contractante(URL) http://www.cnsc.ro; 
+ 
+VI.4.3 Procedura de contestare
+Precizari privind termenul (termenele) pentru procedurile de contestare: 
+Legea nr. 101 din 19 mai 2016 cu modificarile si completarile ulterioare
+ 
+VI.4.4 Serviciul de la care se pot obtine informatii privind procedura de contestare
+-
+ 
+Sistemul Electronic de Achizitii Publice
+Sistemul Electronic de Achizitii Publice, 17.12.2024 18:24 Pagina 14
+

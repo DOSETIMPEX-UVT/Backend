@@ -1,0 +1,112 @@
+Tip contract
+Stare
+C.I.M.
+Activ
+112024 - DIRECTOR TEHNIC  
+Contract individual 
+de munca
+Modificare 
+contract
+Norma intreaga
+5 1/15.02.2006 01.12.2023 - 
+30.06.2024
+Nedeterminata
+112024 - DIRECTOR TEHNIC  
+Contract individual 
+de munca
+Modificare 
+contract
+Norma intreaga
+4 1/15.02.2006 01.03.2023 - 
+30.11.2023
+Nedeterminata
+112024 - DIRECTOR TEHNIC  
+Contract individual 
+de munca
+Modificare 
+contract
+Norma intreaga
+3 1/15.02.2006 01.05.2018 - 
+28.02.2023
+Nedeterminata
+214203 - INGINER INSTALAŢII PENTRU 
+CONSTRUCŢII
+ 
+Contract individual 
+de munca
+Modificare 
+contract
+Norma intreaga
+2 1/15.02.2006 01.01.2018 - 
+30.04.2018
+Nedeterminata
+214203 - INGINER INSTALAŢII PENTRU 
+CONSTRUCŢII
+ 
+Contract individual 
+de munca
+Corectie contract Norma intreaga
+Exceptie data 
+sfarsit
+Temei incetare
+1 1/15.02.2006 01.08.2011 - 
+31.12.2017
+Nedeterminata
+Functie Data sfarsit 
+activitate
+Data incetare Data reactivare Salariu lunar brut
+Tip contract Tip operatie Tip norma Timp munca
+Detalii sporuri / indemnizatii / alte adaosuri
+Nu exista detalii sporuri / indemnizatii / alte adaosuri 
+Intervale vechime (conform HG 905/2017)
+Nr crt Nr./Data contract Interval vechime Tip durata Tip interval 
+repartizare
+ 
+Norma intreaga Norma intreaga 
+8/40
+1 1/15.02.2006 Nedeterminata 112024 - DIRECTOR TEHNIC 15.02.2006
+Salariu de baza 
+lunar brut
+Tip norma Timp munca Data reactivare Exceptie data 
+sfarsit
+Temei incetare
+Contracte Individuale de Munca Salariat
+Nr crt Nr./Data contract Tip durata Tip interval 
+repartizare
+Functie Data incepere 
+activitate
+Data sfarsit 
+activitate
+Data incetare
+Adresa: CALEA BUZIASULUI 11 , TIMISOARA, TIMIS
+Salariat MIHAILA DRAGOS MADALIN (1820516082204)
+Adresa CAL.SAGULUI NR.83,BL.9,SC.C,ET.2,AP.10 , TIMISOARA, TIMIS
+ReviSal - versiunea 6.0.9.0
+Raport per salariat
+12-Feb-2025 12:17
+Angajator: DARO PROIECT
+CAEN: ACTIVITATI DE INGINERIE SI CONSULTANTA TEHNICA LEGATE DE ACESTEA
+
+Nu exista detalii suspendare
+Detalii detasare
+Nu exista detalii detasare
+Detalii suspendare
+112024 - DIRECTOR TEHNIC  
+Contract individual 
+de munca
+Modificare 
+contract
+Norma intreaga
+7 1/15.02.2006 01.01.2025 - 
+Prezent
+Nedeterminata
+112024 - DIRECTOR TEHNIC  
+Contract individual 
+de munca
+Modificare 
+contract
+Norma intreaga
+6 1/15.02.2006 01.07.2024 - 
+31.12.2024
+Nedeterminata
+
