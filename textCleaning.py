@@ -35,4 +35,4 @@ for filename in os.listdir(input_folder):
         with open(output_path, "w", encoding="utf-8") as f:
             f.write(text_curat)
 
-        print(f"✅ Curățat și salvat: {output_path}")
+        print(f"Curățat și salvat: {output_path}")
