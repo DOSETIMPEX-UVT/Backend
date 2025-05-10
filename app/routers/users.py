@@ -51,3 +51,14 @@ def get_user(
         return user
     else:
         raise HTTPException(status_code=404, detail="User not found")
+
+@router.get("/me", response_model=UserDto)
+def get_current_user_profile(
+    db: Session = Depends(get_db),
+    current_user: dict = Depends(get_current_user)
+):
+    auth0_id = current_user["sub"]
+    user = get_user_by_auth0_id(db, auth0_id)
+    if not user:
+        raise HTTPException(status_code=404, detail="User not found")
+    return user
