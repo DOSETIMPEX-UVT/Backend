@@ -4,7 +4,7 @@ from uuid import UUID
 
 class ConversationDto(BaseModel):
     id: UUID
-    user_id: str
+    user_id: UUID
     title: str
     created_at: datetime
     last_updated: datetime
