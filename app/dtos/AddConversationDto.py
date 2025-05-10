@@ -3,7 +3,7 @@ from uuid import UUID
 from pydantic import BaseModel
 
 class AddConversationDto(BaseModel):
-        user_id: UUID
+        user_id: str
         title: str
         sender: str
 
