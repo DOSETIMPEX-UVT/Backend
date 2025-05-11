@@ -1,7 +1,7 @@
 from sqlalchemy import create_engine #creaza o conexiune intre app(app) si baza de date PostgreSQL
 from sqlalchemy.orm import sessionmaker, declarative_base  #permite crearea de sesiuni de lucru cu baza (operatii de adaugare, modificare etc)
 
-DATABASE_URL = "postgresql://username:password@localhost:5432/DataBaseName"
+DATABASE_URL = "postgresql://postgres:onicacatalin2008@localhost:5432/DosetImpexDB"
 
 engine = create_engine(DATABASE_URL)
 

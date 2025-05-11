@@ -1,8 +1,14 @@
-from pydantic import BaseModel   #folosesc pydantic pt validare automata, asa cum trebuie in FastAPI, genereaza automat un _init_ (constructor) si face conversia din Json direct (datele din frontend vin sub forma de json)
+from pydantic import BaseModel
+from typing import Optional
 
 class UpdateUserDto(BaseModel):
-    name: str
-    email: str
+    name: Optional[str] = None
+    email: Optional[str] = None
+    phone: Optional[str] = None
+    gender: Optional[str] = None
+    language: Optional[str] = None
+    country: Optional[str] = None
+    company: Optional[str] = None
 
     class Config:
         from_attributes = True
