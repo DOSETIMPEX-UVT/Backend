@@ -30,17 +30,40 @@ def create_user(db: Session, user_data: CreateUserDto, auth0_id):
     db.refresh(db_user)
     return UserDto.model_validate(db_user)
 
-def update_user(db: Session, id: str, name: str = None, email: str = None):
+def update_user(
+    db: Session,
+    id: str,
+    name: str = None,
+    email: str = None,
+    phone: str = None,
+    gender: str = None,
+    language: str = None,
+    country: str = None,
+    company: str = None,
+):
     user = db.query(User).filter(User.id == id).first()
-
     if not user:
         return None
 
-    if name:
+    if name is not None and name.strip() != "":
         user.name = name
-    if email:
+    if email is not None and email.strip() != "":
         user.email = email
+    if phone is not None and phone.strip() != "":
+        user.phone = phone
+    if gender is not None and gender.strip() != "":
+        user.gender = gender
+    if language is not None and language.strip() != "":
+        user.language = language
+    if country is not None and country.strip() != "":
+        user.country = country
+    if company is not None and company.strip() != "":
+        user.company = company
 
-    db.commit() # salvam in baza de date
-    db.refresh(user) # actualizam obiectul din memorie cu ce e în baza de date
+    print("Actualizare user:", name, email, phone, gender, language, country, company)
+
+    db.commit()
+    db.refresh(user)
     return UserDto.model_validate(user)
+
+

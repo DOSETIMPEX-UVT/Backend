@@ -31,13 +31,24 @@ def update_existing_user(
     id: str,
     user_data: UpdateUserDto,
     db: Session = Depends(get_db),
-    current_user: dict = Depends(get_current_user)  # validare token Auth0
+    current_user: dict = Depends(get_current_user)
 ):
-    updated_user = update_user(db, id, name=user_data.name, email=user_data.email)
+    updated_user = update_user(
+        db,
+        id,
+        name=user_data.name,
+        email=user_data.email,
+        phone=user_data.phone,
+        gender=user_data.gender,
+        language=user_data.language,
+        country=user_data.country,
+        company=user_data.company
+    )
     if updated_user:
         return updated_user
     else:
         raise HTTPException(status_code=404, detail="User not found")
+
 
 # Găsește user după auth0_id
 @router.get("/profile/{id}", response_model=UserDto)
@@ -51,3 +62,14 @@ def get_user(
         return user
     else:
         raise HTTPException(status_code=404, detail="User not found")
+
+@router.get("/me", response_model=UserDto)
+def get_current_user_profile(
+    db: Session = Depends(get_db),
+    current_user: dict = Depends(get_current_user)
+):
+    auth0_id = current_user["sub"]
+    user = get_user_by_auth0_id(db, auth0_id)
+    if not user:
+        raise HTTPException(status_code=404, detail="User not found")
+    return user

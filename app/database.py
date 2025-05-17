@@ -1,10 +1,14 @@
 from sqlalchemy import create_engine #creaza o conexiune intre app(app) si baza de date PostgreSQL
 from sqlalchemy.orm import sessionmaker, declarative_base  #permite crearea de sesiuni de lucru cu baza (operatii de adaugare, modificare etc)
+import os
+from dotenv import load_dotenv
 
-DATABASE_URL = "postgresql://username:password@localhost:5432/DataBaseName"
 
+load_dotenv()
+
+DATABASE_URL = os.getenv("DATABASE_URL")
 engine = create_engine(DATABASE_URL)
-
+print(DATABASE_URL)
 SessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)
 
 Base = declarative_base()

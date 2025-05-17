@@ -1,30 +1,17 @@
-import faiss
+from sentence_transformers import SentenceTransformer
 import numpy as np
 import os
 
-folder_path = 'Data/VectorizedDataNormalized'
+model = SentenceTransformer('paraphrase-MiniLM-L6-v2')
+input_folder = "Data/CleanedData"
+output_folder = "Data/VectorizedDataNormalized"
 
-vectori = []
-nume_fisiere = []
+os.makedirs(output_folder, exist_ok=True)
 
-for filename in os.listdir(folder_path):
-    if filename.endswith('.txt'):
-        file_path = os.path.join(folder_path, filename)
-
-        vector = np.loadtxt(file_path)
-        vectori.append(vector)
-
-        nume_fisiere.append(filename)
-
-# Transformam lista în numpy array de float32 ptr ca FAISS accepta doar vectori de tip float32 ca să functioneze rapid
-vectori = np.array(vectori).astype('float32')
-
-print(f"Am găsit {len(vectori)} vectori.")
-
-# Cream baza FAISS
-dimensiune = vectori.shape[1]
-index = faiss.IndexFlatL2(dimensiune)
-
-index.add(vectori)
-
-print("Vectori salvați")
+for filename in os.listdir(input_folder):
+    if filename.endswith(".txt"):
+        with open(os.path.join(input_folder, filename), "r", encoding="utf-8") as f:
+            content = f.read()
+        vector = model.encode(content).astype("float32")
+        np.savetxt(os.path.join(output_folder, filename), vector)
+        print(f"Vector salvat pentru {filename}: {vector.shape}")

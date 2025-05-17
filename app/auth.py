@@ -2,11 +2,14 @@ from fastapi import Depends, HTTPException, status
 from fastapi.security import HTTPBearer, HTTPAuthorizationCredentials
 from jose import jwt, JWTError
 from dotenv import load_dotenv
+from pathlib import Path
 import os
 import requests
 
-# Încarcă variabilele din .env
-load_dotenv()
+# Încarcă .env
+env_path = Path(__file__).parent / '.env'
+load_dotenv(dotenv_path=env_path)
+
 
 # Variabilele de autentificare
 AUTH0_DOMAIN = os.getenv("AUTH0_DOMAIN")
@@ -18,6 +21,9 @@ token_auth_scheme = HTTPBearer()
 
 def verify_jwt(token: str):
     try:
+        print("Token primit:", token)
+        print("Audience setat în server:", API_AUDIENCE)
+        print("Issuer setat în server:", f"https://{AUTH0_DOMAIN}/")
         # Luăm cheia publică de la Auth0
         jwks_url = f"https://{AUTH0_DOMAIN}/.well-known/jwks.json"
         jwks = requests.get(jwks_url).json()
@@ -67,3 +73,4 @@ def verify_jwt(token: str):
 def get_current_user(credentials: HTTPAuthorizationCredentials = Depends(token_auth_scheme)):
     token = credentials.credentials
     return verify_jwt(token) # returneaza dictionar cu mai multe chei care contin informatii din auth0, precum id il gasim in cheia sub
+#
