@@ -1,6 +1,5 @@
 from fastapi import APIRouter, Request
 from app.llm_utils.generate_response import generate_response_from_LLM
-
 router = APIRouter()
 
 
