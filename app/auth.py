@@ -73,4 +73,15 @@ def verify_jwt(token: str):
 def get_current_user(credentials: HTTPAuthorizationCredentials = Depends(token_auth_scheme)):
     token = credentials.credentials
     return verify_jwt(token) # returneaza dictionar cu mai multe chei care contin informatii din auth0, precum id il gasim in cheia sub
-#
+    
+def get_management_token():
+    url = f"https://{AUTH0_DOMAIN}/oauth/token"
+    payload = {
+        "client_id": os.getenv("AUTH0_M2M_CLIENT_ID"),
+        "client_secret": os.getenv("AUTH0_M2M_CLIENT_SECRET"),
+        "audience": os.getenv("AUTH0_MGMT_AUDIENCE"),
+        "grant_type": "client_credentials"
+    }
+    response = requests.post(url, json=payload)
+    response.raise_for_status()
+    return response.json()["access_token"]
