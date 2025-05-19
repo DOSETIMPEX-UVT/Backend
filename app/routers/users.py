@@ -5,6 +5,7 @@ from app.services.users import create_user, get_user_by_id, update_user, get_use
 from app.dtos.UserDto import UserDto
 from app.dtos.CreateUserDto import CreateUserDto
 from app.dtos.UpdateUserDto import UpdateUserDto
+from app.services.users import delete_user_completely
 
 from app.auth import get_current_user  # funcția care validează tokenul și extrage userul
 
@@ -73,3 +74,15 @@ def get_current_user_profile(
     if not user:
         raise HTTPException(status_code=404, detail="User not found")
     return user
+
+@router.delete("/delete_me")
+def delete_current_user(
+    db: Session = Depends(get_db),
+    current_user: dict = Depends(get_current_user)
+):
+    auth0_id = current_user["sub"]
+    try:
+        delete_user_completely(db, auth0_id)
+        return {"message": "Account successfully deleted."}
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))
