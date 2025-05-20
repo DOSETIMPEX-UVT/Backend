@@ -1,5 +1,13 @@
 from run_model import tokenizer, model_with_adapter
 
+def verif_cerere_rezumat(user_message: str) -> bool:
+    instructiuni_rezumat = [
+        "rezumă", "fa un rezumat", "scrie un rezumat", "pune pe scurt",
+        "rezumat", "sinteză", "rezumați", "sumarizează"
+    ]
+    mesaj = user_message.lower()
+    return any(cuvant in mesaj for cuvant in instructiuni_rezumat)
+
 alpaca_prompt = """Mai jos este o instrucțiune care descrie o sarcină. Scrie un răspuns care completează adecvat cererea.
 
     ### Instrucțiune:
@@ -47,23 +55,34 @@ def rezumat_final_rezumate(rezumate):
     return result.strip()
 
 async def generate_response_from_LLM(user_message: str) -> str:
-    input_ids = tokenizer.encode(user_message, return_tensors="pt")[0] #facem conversia din text natural in numere
+    if verif_cerere_rezumat(user_message):
+        input_ids = tokenizer.encode(user_message, return_tensors="pt")[0] #facem conversia din text natural in numere
 
-    if len(input_ids) <= MAX_TOKENS_INPUT:
-        #daca inputul e un text scurt, il procesam fara sa il impartim in segmente
-        prompt = alpaca_prompt.format(user_message, "")
-        inputs = tokenizer([prompt], return_tensors="pt").to("cuda")
+        if len(input_ids) <= MAX_TOKENS_INPUT:
+            #daca inputul e un text scurt, il procesam fara sa il impartim in segmente
+            prompt = alpaca_prompt.format(user_message, "")
+            inputs = tokenizer([prompt], return_tensors="pt").to("cuda")
 
-        outputs = model_with_adapter.generate(**inputs, max_new_tokens=1500)
-        result = tokenizer.decode(outputs[0], skip_special_tokens=True)
-        print(f"Prompt token count: {len(tokenizer.encode(prompt))}")
+            outputs = model_with_adapter.generate(**inputs, max_new_tokens=1500)
+            result = tokenizer.decode(outputs[0], skip_special_tokens=True)
+            print(f"Prompt token count: {len(tokenizer.encode(prompt))}")
 
-        try:
-            print("Input scurt")
-            return result.split("### Răspuns:")[1].strip()
-        except IndexError:
-            return result.strip()
+            try:
+                print("Input scurt")
+                return result.split("### Răspuns:")[1].strip()
+            except IndexError:
+                return result.strip()
 
+        else:
+            # Text lung → împărțire, rezumat progresiv
+            bucati = imparte_text_lung(user_message, tokenizer)
+
+            rezumate_intermediare = []
+            for b in bucati:
+                rezumat = rezuma_bucata(b)
+                rezumate_intermediare.append(rezumat)
+
+            return rezumat_final_rezumate(rezumate_intermediare)
     else:
         # Text lung → împărțire, rezumat progresiv
         bucati = imparte_text_lung(user_message, tokenizer)
@@ -74,4 +93,3 @@ async def generate_response_from_LLM(user_message: str) -> str:
             rezumate_intermediare.append(rezumat)
 
         return rezumat_final_rezumate(rezumate_intermediare)
-
