@@ -92,4 +92,3 @@ def delete_user_completely(db: Session, auth0_id: str):
     db.delete(user)
     db.commit()
 
-

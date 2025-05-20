@@ -7,11 +7,13 @@ from app.dtos.ConversationDto import ConversationDto
 from app.models.Conversations import Conversation
 from app.dtos.AddConversationDto import AddConversationDto
 from app.models.Messages import Message
-
+import uuid
+from datetime import datetime
 
 def get_conversations_by_user_id(db: Session, user_id: str) -> list[ConversationDto]:
     conversations = db.query(Conversation).filter(Conversation.user_id == user_id).all()
     return [ConversationDto.model_validate(conv) for conv in conversations]
+
 def add_conversation_by_user_id(db:Session, add_model:AddConversationDto):
     db_conversation = Conversation(
         id=uuid.uuid4(),
@@ -24,7 +26,6 @@ def add_conversation_by_user_id(db:Session, add_model:AddConversationDto):
     return ConversationDto.model_validate(db_conversation)
 
 def delete_conversation_by_user_id(db:Session, conversation_id):
-
     messages = db.query(Message).filter(Message.conversation_id == conversation_id).all()
 
     for message in messages:
@@ -39,3 +40,16 @@ def delete_conversation_by_user_id(db:Session, conversation_id):
     db.commit()
 
     return {"message": "Conversation and its messages deleted successfully."}
+
+def create_conversation(db: Session, user_id: uuid.UUID, title: str) -> Conversation:
+    new_conversation = Conversation(
+        id=uuid.uuid4(),
+        user_id=user_id,
+        title=title[:50],
+        created_at=datetime.utcnow(),
+        last_updated=datetime.utcnow()
+    )
+    db.add(new_conversation)
+    db.commit()
+    db.refresh(new_conversation)
+    return new_conversation
