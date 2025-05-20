@@ -1,2 +1,3 @@
 mistral-dosetimpex/
-.env
+app/.env
+*.env

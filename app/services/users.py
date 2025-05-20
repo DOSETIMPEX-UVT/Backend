@@ -2,6 +2,11 @@ from sqlalchemy.orm import Session
 from app.models.Users import User
 from app.dtos.CreateUserDto import CreateUserDto
 from app.dtos.UserDto import UserDto
+from app.auth import get_management_token
+import requests
+from decouple import config
+
+AUTH0_DOMAIN = config("AUTH0_DOMAIN")
 
 import uuid
 
@@ -66,4 +71,24 @@ def update_user(
     db.refresh(user)
     return UserDto.model_validate(user)
 
+# Stergere utilizator
+def delete_user_completely(db: Session, auth0_id: str):
+    # 1. Ștergere din Auth0
+    token = get_management_token()
+    url = f"https://{AUTH0_DOMAIN}/api/v2/users/{auth0_id}"
+    headers = {
+        "Authorization": f"Bearer {token}"
+    }
+    response = requests.delete(url, headers=headers)
+    print("Auth0 delete status:", response.status_code)
+
+    if response.status_code != 204:
+        raise Exception("Eroare la ștergerea utilizatorului din Auth0.")
+
+    # 2. Ștergere din PostgreSQL
+    user = db.query(User).filter(User.auth0_id == auth0_id).first()
+    if not user:
+        raise Exception("Utilizatorul nu există în baza de date.")
+    db.delete(user)
+    db.commit()
 
