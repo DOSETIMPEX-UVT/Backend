@@ -1,5 +1,8 @@
 from run_model import tokenizer, model_with_adapter
 
+from app.llm_utils.generate_response_vectors import cauta_context
+
+
 def verif_cerere_rezumat(user_message: str) -> bool:
     instructiuni_rezumat = [
         "rezumă", "fa un rezumat", "scrie un rezumat", "pune pe scurt",
@@ -84,12 +87,13 @@ async def generate_response_from_LLM(user_message: str) -> str:
 
             return rezumat_final_rezumate(rezumate_intermediare)
     else:
-        # Text lung → împărțire, rezumat progresiv
-        bucati = imparte_text_lung(user_message, tokenizer)
+        context = cauta_context(user_message)
 
-        rezumate_intermediare = []
-        for b in bucati:
-            rezumat = rezuma_bucata(b)
-            rezumate_intermediare.append(rezumat)
+        # Construiește promptul folosind contextul și întrebarea
+        prompt = alpaca_prompt.format(f"Context:\n{context[:1000]}\n\nÎntrebare: {user_message}", "")
+        inputs = tokenizer([prompt], return_tensors="pt").to("cuda")
 
-        return rezumat_final_rezumate(rezumate_intermediare)
+        outputs = model_with_adapter.generate(**inputs, max_new_tokens=500)
+        result = tokenizer.decode(outputs[0], skip_special_tokens=True)
+        print("Cautare vectoriala")
+        return result.split("### Răspuns:")[1].strip() if "### Răspuns:" in result else result.strip()

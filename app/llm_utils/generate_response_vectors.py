@@ -3,13 +3,10 @@ import numpy as np
 import faiss
 from sentence_transformers import SentenceTransformer
 
-# Găsește calea absolută către rădăcina proiectului
 BASE_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), "../.."))
 
-# Load model o singură dată
 model = SentenceTransformer('paraphrase-MiniLM-L6-v2')
 
-# Încarcă vectorii FAISS
 folder_path = os.path.join(BASE_DIR, "Data", "VectorizedDataNormalized")
 vectori = []
 nume_fisiere = []
@@ -24,15 +21,10 @@ vectori = np.array(vectori).astype("float32")
 index = faiss.IndexFlatL2(vectori.shape[1])
 index.add(vectori)
 
-# Funcția care va fi apelată în router
-async def generate_response_from_LLM(user_message: str) -> str:
-    # Encodează întrebarea
-    query_vector = model.encode([user_message]).astype("float32")
-
-    # Caută cei mai apropiați 3 vectori
+def cauta_context(user_message: str, max_context_chars: int = 1000) -> str:
+    query_vector = model.encode([user_message]).astype("float32") #vectorizare intrebare
     D, I = index.search(query_vector, k=3)
 
-    # Încearcă să extragi contextul din fișierele corespunzătoare
     context_parts = []
     for idx in I[0]:
         if idx < 0 or idx >= len(nume_fisiere):
@@ -48,13 +40,8 @@ async def generate_response_from_LLM(user_message: str) -> str:
         except FileNotFoundError:
             continue
 
-    # Construiește contextul final
-    if not context_parts:
-        return "Am găsit vectori similari, dar nu am putut extrage contextul din fișierele originale."
+        if not context_parts:
+            return "Am găsit vectori similari, dar nu am putut extrage contextul din fișierele originale."
 
     context = "\n".join(context_parts)
-
-    # Returnează răspunsul cu context
-    response = f"{context[:1000]}"
-    return response
-
+    return context[:max_context_chars]  # Trunchiază dacă e prea lung
