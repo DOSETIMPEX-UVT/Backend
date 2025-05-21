@@ -14,11 +14,17 @@ import uuid
 def get_user_by_id(db: Session, id: str):
     user = db.query(User).filter(User.id == id).first()
     if user:
+        print(
+            f"User from DB1: {user.name}, {user.email}, {user.phone}, {user.gender}, {user.language}, {user.country}, {user.company}")
+
         return UserDto.model_validate(user)
     return None
 def get_user_by_auth0_id(db: Session, auth0_id: str):
     user = db.query(User).filter(User.auth0_id == auth0_id).first()
     if user:
+        print("User from DB2:", user.name, user.email, user.phone, user.gender, user.language, user.country,
+              user.company)
+
         return UserDto.model_validate(user)
     return None
 
