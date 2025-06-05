@@ -42,7 +42,7 @@ def imparte_text_lung(text, tokenizer, max_tokens=MAX_TOKENS_INPUT):
     return bucati
 
 def rezuma_bucata(text_bucata):
-    prompt = alpaca_prompt.format(f"Rezumă următoarea parte a unui text lung:\n{text_bucata}", "")
+    prompt = alpaca_prompt.format(f"Rezumă următoarea parte a unui text lung în maxim 150 de cuvinte:\n{text_bucata}", "")
     inputs = tokenizer([prompt], return_tensors="pt").to("cuda")
 
     outputs = model_with_adapter.generate(**inputs, max_new_tokens=300) #genereaza text pe baza inputului
@@ -54,7 +54,7 @@ def rezuma_bucata(text_bucata):
 
 def rezumat_final_rezumate(rezumate):
     text_concat = "\n".join(rezumate) #unesc rezumatele in text_concat separate prin new line
-    prompt = alpaca_prompt.format(f"Rezumă următoarele puncte cheie extrase dintr-un text lung:\n{text_concat}", "")
+    prompt = alpaca_prompt.format(f"Rezumă următoarele puncte cheie extrase dintr-un text lung în maxim 500 de cuvinte:\n{text_concat}", "")
     inputs = tokenizer([prompt], return_tensors="pt").to("cuda")
 
     print(f"Prompt token count: {len(tokenizer.encode(prompt))}")
@@ -74,7 +74,7 @@ async def generate_response_from_LLM(user_message: str) -> str:
             prompt = alpaca_prompt.format(user_message, "")
             inputs = tokenizer([prompt], return_tensors="pt").to("cuda")
 
-            outputs = model_with_adapter.generate(**inputs, max_new_tokens=1500)
+            outputs = model_with_adapter.generate(**inputs, max_new_tokens=2000)
             result = tokenizer.decode(outputs[0], skip_special_tokens=True)
             print(f"Prompt token count: {len(tokenizer.encode(prompt))}")
 
@@ -110,11 +110,11 @@ async def generate_response_from_LLM(user_message: str) -> str:
                 Context:
                 {context[:1000]}
                 Întrebare: {user_message}
-                """, "")
+                Te rog să răspunzi complet la întrebare in maxim 200 de cuvinte și să nu întrerupi răspunsul înainte de final.""", "")
 
         inputs = tokenizer([prompt], return_tensors="pt").to("cuda")
 
-        outputs = model_with_adapter.generate(**inputs, max_new_tokens=500)
+        outputs = model_with_adapter.generate(**inputs, max_new_tokens=4000)
         result = tokenizer.decode(outputs[0], skip_special_tokens=True)
 
         return result.split("### Răspuns:")[1].strip() if "### Răspuns:" in result else result.strip()
