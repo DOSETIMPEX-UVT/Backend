@@ -25,14 +25,12 @@ def get_all_conversations(user_id: str,
     return get_conversations_by_user_id(db, user_id)
 
 
-@router.post("/add_conversation", response_model=ResponseMessageLLMDto)
+@router.post("/add_conversation")
 async def add_conversation(add_model:AddConversationDto,
                      db:Session = Depends(get_db),
                      current_user: dict = Depends(get_current_user)  # validare token Auth0
                      ):
     conversation_dto = add_conversation_by_user_id(db, add_model)
-    response_from_LLM = await generate_response_from_LLM(add_model.sender)
-    message = add_message(db, conversation_dto.id, add_model.sender, response_from_LLM)
-    return message
-
+    print(conversation_dto)
+    return conversation_dto
 

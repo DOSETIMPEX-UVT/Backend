@@ -1,3 +1,4 @@
+import datetime
 import os
 import shutil
 import uuid
@@ -12,7 +13,7 @@ from app.database import get_db
 from app.dtos.AddMessageDto import AddMessageDto
 from app.dtos.ResponseMessageLLMDto import ResponseMessageLLMDto
 from app.dtos.SenderContentDto import SenderContentDto
-from app.llm_utils.generate_response import generate_response_from_LLM
+from app.llm_utils.generate_response_from_LLM import generate_response_from_LLM
 from app.services.messages import get_all_messages_by_conversation_id
 
 from app.models.Conversations import Conversation
@@ -34,9 +35,20 @@ async def create_message_endpoint(
     db: Session = Depends(get_db),
     current_user: dict = Depends(get_current_user)  # validare token Auth0
 ):
-    response_from_LLM = await generate_response_from_LLM(message_model.sender)
-    message = add_message(db, message_model.conversation_id, message_model.sender, response_from_LLM)
-    return message
+    response_from_LLM = await generate_response_from_LLM(message_model.content)
+    print("response from llm: " + response_from_LLM)
+    print("content trimis"+ message_model.content)
+
+    sender = message_model.sender
+    if message_model.sender not in ("user", "bot"):
+        # dacă vine email sau altceva, consider 'user'
+        message_model.sender = "user"
+
+    print("sende " + message_model.sender)
+    # salvez mesajul utilizatorului
+    add_message(db, message_model.conversation_id, message_model.sender, message_model.content)
+    bot_message = add_message(db, message_model.conversation_id, "bot", response_from_LLM)
+    return bot_message
 
 @router.get("/all_conversation/{conversation_id}", response_model=List[SenderContentDto])
 def all_conversation(
