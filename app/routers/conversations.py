@@ -12,10 +12,61 @@ from app.models.Conversations import Conversation
 from app.services.conversations import get_conversations_by_user_id, add_conversation_by_user_id
 from app.services.messages import add_message
 
+from app.services.conversations import update_conversation_title
+from app.services.conversations import delete_conversation
+from app.dtos.UpdateConversationDto import UpdateConversationDto
+from app.dtos.UpdateResultDto import UpdateResultDto
+from app.dtos.SuccessDto import SuccessDto
+from fastapi import APIRouter, Depends, HTTPException, status
+from uuid import UUID
+
 router = APIRouter(
     prefix="/conversations",
     tags=["Conversations"]
 )
+
+
+@router.put(
+    "/edit/{conversation_id}",
+    response_model=UpdateResultDto,
+    status_code=status.HTTP_200_OK,
+)
+def edit_conversation(
+    conversation_id: UUID,
+    update: UpdateConversationDto,
+    db: Session = Depends(get_db),
+    current_user: dict = Depends(get_current_user),
+):
+    conv = update_conversation_title(
+        db, conversation_id, update.title, current_user["sub"]
+    )
+    if not conv:
+        raise HTTPException(
+            status_code=404,
+            detail="Conversația nu există sau nu aparține utilizatorului.",
+        )
+    return {"title": conv.title}
+
+
+@router.delete(
+    "/delete/{conversation_id}",
+    response_model=SuccessDto,
+    status_code=status.HTTP_200_OK,
+)
+def remove_conversation(
+    conversation_id: UUID,
+    db: Session = Depends(get_db),
+    current_user: dict = Depends(get_current_user),
+):
+    ok = delete_conversation(db, conversation_id, current_user["sub"])
+    if not ok:
+        raise HTTPException(
+            status_code=404,
+            detail="Conversația nu există sau nu aparține utilizatorului.",
+        )
+    return {"success": True}
+
+
 
 @router.get("/all_conversations/{user_id}", response_model=List[ConversationDto])
 def get_all_conversations(user_id: str,
