@@ -7,8 +7,39 @@ from app.dtos.ConversationDto import ConversationDto
 from app.models.Conversations import Conversation
 from app.dtos.AddConversationDto import AddConversationDto
 from app.models.Messages import Message
-import uuid
+from uuid import UUID
+from app.models.Users import User
 from datetime import datetime
+
+def update_conversation_title(
+    db: Session, conv_id: UUID, new_title: str, auth0_id: str
+):
+    user = db.query(User).filter(User.auth0_id == auth0_id).first()
+    if not user:
+        raise HTTPException(status_code=404, detail="User not found")
+    conv = (
+        db.query(Conversation)
+        .filter(Conversation.id == conv_id and Conversation.user_id == user.id)
+        .first()
+    )
+    if not conv:
+        return None
+    conv.title = new_title
+    db.commit()
+    db.refresh(conv)
+    return conv
+
+def delete_conversation(db: Session, conv_id: UUID, auth0_id: str) -> bool:
+    user = db.query(User).filter_by(auth0_id=auth0_id).first()
+    if not user:
+        raise HTTPException(status_code=404, detail="User not found")
+    conv = db.query(Conversation).filter(Conversation.id == conv_id, Conversation.user_id == user.id).first()
+    if not conv:
+        return False
+    db.query(Message).filter(Message.conversation_id == conv.id).delete(synchronize_session=False)
+    db.delete(conv)
+    db.commit()
+    return True
 
 def get_conversations_by_user_id(db: Session, user_id: str) -> list[ConversationDto]:
     conversations = db.query(Conversation).filter(Conversation.user_id == user_id).all()
